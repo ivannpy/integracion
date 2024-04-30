@@ -1,0 +1,445 @@
+{
+	"MM_DEC_CORAPER1": {
+		"C_DEC_NOUPMEE1": "240320000295",
+		"D_DEC_TPIRPEO1": "1",
+		"D_DEC_TPIEPRO1": "M",
+		"D_DEC_TDIEPCO1": "001",
+		"D_DEC_PDEERCI1": "005",
+		"N_DEC_EDFJOIE1": 2020,
+		"D_DEC_VEESRTS1": "1.0",
+		"D_DEC_OBSERVA1": "ilyyrukrtyuk",
+		"D_DEC_RFCOEEE1": "CAN861118QS2",
+		"D_DEC_DRSOEEA1": "SERVICIOS ESPECIALIZADOS EN INVESTIGACION Y COBRANZA SEIC",
+		"D_DEC_RFCRLEE1": "EOPA580711HWA",
+		"D_DEC_CRLEUEE1": "EOPA580711HDFSNB00",
+		"D_DEC_APRLEPA1": "HERNANDEZ",
+		"D_DEC_AMRLEPA1": "LEM",
+		"D_DEC_NRLEOEE1": "FRANCISCO JAVIER",
+		"D_DEC_RFCEEEO1": "CAN861118QS2",
+		"D_DEC_DRSEEAO1": "SERVICIOS ESPECIALIZADOS EN INVESTIGACION Y COBRANZA SEIC",
+		"D_DEC_TDDIOIP1": "0005",
+		"D_DEC_VSDEEIR1": "1.0",
+		"D_DEC_RFCIEEO1": "CAN861118QS2",
+		"D_DEC_NDRSSDO1": "SERVICIOS ESPECIALIZADOS EN INVESTIGACION Y COBRANZA SEIC",
+		"N_DEC_EDDJOIE1": 2020,
+		"D_DEC_PDDEOIR1": "005",
+		"F_DEC_FHPEORC1": "2024-04-29T14:43:53",
+		"D_DEC_MPERDEI1": "03",
+		"F_DEC_FHSDEOE1": "2024-04-29T14:43:53",
+		"D_DEC_SDEILGL1": "jLhPAFipF95DurVR1zRSkCGmp2aofpo4gfbPYx1dptIlP0XAuOFDrN2Y5H7gem2OHkfgdzfMciemL0Kivn3E6g3ST0YAiKIBjna0wjUFYmB9I42HbFHK88CDHM8r59zzIJ9oZTZuPkV1ZIE3XZfC69GZCYx1aMLzVYHSjo",
+		"D_DEC_NAORMCB1": "CAN861118QS2.240320000295.json"
+	},
+	"A1OpFin": {
+		"D_DEC_TAINPEO1": "A1",
+		"A11PagCIOpFDerMay20VS": [
+			{
+				"C_DEC_COPLPRA1": "01",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-01",
+				"I_DEC_IUPFBMT1": "753",
+				"D_DEC_RFEISSU1": "UTIFIS",
+				"D_DEC_COMENTA1": "hola"
+			}
+		],
+		"A12OpFDerCompYOEst": [
+			{
+				"C_DEC_COPLPRA1": "02",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-04-05",
+				"I_DEC_IUPFBMT1": "951",
+				"D_DEC_RFEISSU1": "UTIFIS",
+				"D_DEC_COMENTA1": "holis"
+			}
+		],
+		"A13OpFDerFinCobCom": [
+			{
+				"C_DEC_COPLPRA1": "03",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-01-10",
+				"I_DEC_IUPFBMT1": "567",
+				"D_DEC_RFEISSU1": "PERFIS",
+				"D_DEC_COMENTA1": "hola hola o3 a1"
+			}
+		],
+		"A14OpFDerFinNeg": [
+			{
+				"C_DEC_COPLPRA1": "04",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2020-03-05",
+				"I_DEC_IUPFBMT1": "456",
+				"D_DEC_RFEISSU1": "UTIFIS",
+				"D_DEC_COMENTA1": "hola a1 o4"
+			}
+		],
+		"A15OpFSegregTitCredIF": [
+			{
+				"C_DEC_COPLPRA1": "05",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2022-08-18",
+				"I_DEC_IUPFBMT1": "9876",
+				"D_DEC_RFEISSU1": "PERFIS",
+				"D_DEC_COMENTA1": "hola a1 o5"
+			}
+		],
+		"A16EnTitValPrinc": [
+			{
+				"C_DEC_COPLPRA1": "06",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-03-07",
+				"I_DEC_IUPFBMT1": "876",
+				"D_DEC_RFEISSU1": "UTIFIS",
+				"D_DEC_COMENTA1": "hola a1 o6"
+			}
+		],
+		"A17EnCupInt": [
+			{
+				"C_DEC_COPLPRA1": "07",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2023-08-10",
+				"I_DEC_IUPFBMT1": "987",
+				"D_DEC_RFEISSU1": "UTIFIS",
+				"D_DEC_COMENTA1": "hola a1 o7"
+			}
+		],
+		"A18TermAntOpFDer": [
+			{
+				"C_DEC_COPLPRA1": "08",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-12",
+				"D_DEC_COMENTA1": "hola a1 o8"
+			}
+		],
+		"A19OpFDerNoEjOpcEst": [
+			{
+				"C_DEC_COPLPRA1": "09",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-03-07",
+				"D_DEC_COMENTA1": "hola a1 o9"
+			}
+		]
+	},
+	"A2OpParRel": {
+		"D_DEC_TAINPEO1": "A2",
+		"A21AjuEjActModM20": [
+			{
+				"C_DEC_COPLPRA1": "01",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-25",
+				"I_DEC_IOMPPEO1": "123",
+				"D_DEC_OIMPNOE1": "CI34",
+				"D_DEC_CIMONON1": "fghhjk",
+				"D_DEC_OCGQSMP1": "CCG42",
+				"D_DEC_CCGMOOA1": "eyrtughj",
+				"D_DEC_MPTUDAE1": "OTRO",
+				"D_DEC_MPTERRT1": "iytusdfg",
+				"D_DEC_EPAMXRC1": "NO"
+			}
+		],
+		"A22AjuEjActModM60MP": [
+			{
+				"C_DEC_COPLPRA1": "02",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-04-25",
+				"I_DEC_IOMPPEO1": "657456",
+				"D_DEC_OIMPNOE1": "CI1",
+				"D_DEC_OCGQSMP1": "CCG46",
+				"D_DEC_MPTUDAE1": "PR",
+				"D_DEC_EPAMXRC1": "SI",
+				"D_DEC_PPMAARU1": "BH"
+			}
+		],
+		"A23AjuModM20": [
+			{
+				"C_DEC_COPLPRA1": "03",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-12",
+				"I_DEC_IOMPPEO1": "789",
+				"D_DEC_OIMPNOE1": "CI3",
+				"D_DEC_OCGQSMP1": "CCG47",
+				"D_DEC_MPTUDAE1": "CA",
+				"D_DEC_EPAMXRC1": "NO"
+			}
+		],
+		"A24AjuModM60MP": [
+			{
+				"C_DEC_COPLPRA1": "04",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-04-11",
+				"I_DEC_IOMPPEO1": "853",
+				"D_DEC_OIMPNOE1": "CI2",
+				"D_DEC_OCGQSMP1": "CCG15",
+				"D_DEC_MPTUDAE1": "OTRO",
+				"D_DEC_MPTERRT1": "dfgdfsg",
+				"D_DEC_EPAMXRC1": "SI",
+				"D_DEC_PPMAARU1": "AW"
+			}
+		],
+		"A25CosYGasValResUtYOPag": [
+			{
+				"C_DEC_COPLPRA1": "05",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-02",
+				"I_DEC_IOMPPEO1": "789"
+			}
+		]
+	},
+	"A3ParCapYResFis": {
+		"D_DEC_TAINPEO1": "A3",
+		"A31CamSocManDir": [
+			{
+				"C_DEC_COPLPRA1": "01",
+				"N_DEC_COORNIS1": 1,
+				"F_DEC_FOEPCEH1": "2024-04-04"
+			}
+		],
+		"A32CamSocManInd": [
+			{
+				"C_DEC_COPLPRA1": "02",
+				"N_DEC_COORNIS1": 1,
+				"F_DEC_FOEPCEH1": "2021-03-18"
+			}
+		],
+		"A33EnAcc": [
+			{
+				"C_DEC_COPLPRA1": "03",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORRMEPE1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-19",
+				"I_DEC_IOMPPEO1": "987",
+				"D_DEC_RFEISSU1": "PERFIS"
+			}
+		],
+		"A34CamResFisExtAMex": [
+			{
+				"C_DEC_COPLPRA1": "04",
+				"N_DEC_COORNIS1": 1,
+				"F_DEC_FOEPCEH1": "2024-04-04",
+				"D_DEC_POARIIS1": "AL"
+			}
+		],
+		"A35ObtResFisMexYExt": [
+			{
+				"C_DEC_COPLPRA1": "05",
+				"N_DEC_COORNIS1": 1,
+				"F_DEC_FOEPCEH1": "2024-04-06",
+				"D_DEC_PRFAEII1": "AO"
+			}
+		],
+		"A36ObtResFisExtYMex": [
+			{
+				"N_DEC_COORNIS1": 1,
+				"F_DEC_FOEPCEH1": "2024-04-04",
+				"D_DEC_PRFAEII1": "AL"
+			}
+		]
+	},
+	"A4ReorYReest": {
+		"D_DEC_TAINPEO1": "A4",
+		"A41ReesOReorEnAcc": [
+			{
+				"C_DEC_COPLPRA1": "01",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FIIOENM1": "2024-02-06",
+				"F_DEC_FFIOEIM1": "2024-04-18"
+			}
+		],
+		"A42CenODescFunXGruEco": [
+			{
+				"C_DEC_COPLPRA1": "02",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FIIOENM1": "2024-04-01",
+				"F_DEC_FFIOEIM1": "2024-04-26",
+				"D_DEC_CDCEEON1": "1",
+				"D_DEC_CDTEEEN1": "0",
+				"D_DEC_CDLEEON1": "1",
+				"D_DEC_CDCCPEE1": "0",
+				"D_DEC_CDNEEON1": "1",
+				"D_DEC_CDPEEEN1": "1"
+			}
+		],
+		"A43CamModNeg": [
+			{
+				"C_DEC_COPLPRA1": "03",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FIIOENM1": "2024-04-03",
+				"F_DEC_FFIOEIM1": "2024-04-26",
+				"D_DEC_RMBEEAI1": "0",
+				"D_DEC_RSAEEED1": "1",
+				"D_DEC_RCBEEOI1": "1"
+			}
+		]
+	},
+	"A5OtrOpRelev": {
+		"D_DEC_TAINPEO1": "A5",
+		"A51EnBienIntang": [
+			{
+				"C_DEC_COPLPRA1": "01",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-05",
+				"I_DEC_IOMPPEO1": "523",
+				"D_DEC_TAIICNP1": "IIE",
+				"D_DEC_AICNTTI1": "453"
+			}
+		],
+		"A52EnBienTipDer": [
+			{
+				"C_DEC_COPLPRA1": "02",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-05",
+				"I_DEC_IOMPPEO1": "53",
+				"D_DEC_TDCIEOP1": "53453"
+			}
+		],
+		"A53EnActFin": [
+			{
+				"C_DEC_COPLPRA1": "03",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-04",
+				"I_DEC_IOMPPEO1": "563",
+				"D_DEC_TAFICIP1": "OTRO",
+				"D_DEC_COMENTA1": "fghfgh"
+			}
+		],
+		"A54ApActFinFid": [
+			{
+				"C_DEC_COPLPRA1": "04",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-05",
+				"I_DEC_IOMPPEO1": "753",
+				"D_DEC_TAFICIP1": "OTRO",
+				"D_DEC_AFCITNI1": "fadgdsfg"
+			}
+		],
+		"A55EnBienFusOEsc": [
+			{
+				"C_DEC_COPLPRA1": "05",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-03",
+				"I_DEC_IOMPPEO1": "7542",
+				"D_DEC_OOEBPRN1": "ESC",
+				"D_DEC_COMENTA1": "sfgdfgh"
+			}
+		],
+		"A56OpPaisBenEvDobISR": [
+			{
+				"C_DEC_COPLPRA1": "06",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-04-05",
+				"I_DEC_IOMPPEO1": "345",
+				"D_DEC_POAPIES1": "AD"
+			}
+		],
+		"A57OpFinIntDesp1Anio": [
+			{
+				"C_DEC_COPLPRA1": "07",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-12",
+				"I_DEC_IOMPPEO1": "7853"
+			}
+		],
+		"A58PagIntOpFinM1Anio": [
+			{
+				"C_DEC_COPLPRA1": "08",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-04-13",
+				"I_DEC_IOMPPEO1": "787"
+			}
+		],
+		"A59RegIntDevConOpFinM1Anio": [
+			{
+				"C_DEC_COPLPRA1": "09",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2021-04-09",
+				"I_DEC_IOMPPEO1": "75342"
+			}
+		],
+		"A510DivPerFisEjAntEsc": [
+			{
+				"C_DEC_COPLPRA1": "10",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2019-03-06",
+				"I_DEC_IOMPPEO1": "753"
+			}
+		],
+		"A511TransPerFisEjAntDivEsc": [
+			{
+				"C_DEC_COPLPRA1": "11",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2021-03-11",
+				"I_DEC_IOMPPEO1": "53"
+			}
+		],
+		"A512DisPerFisDFusArt58LISR": [
+			{
+				"C_DEC_COPLPRA1": "12",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PNR",
+				"D_DEC_ORPEESR1": "RESEXT",
+				"F_DEC_FOEPCEH1": "2024-04-06",
+				"I_DEC_IOMPPEO1": "753275"
+			}
+		],
+		"A513ReemCapPagDivRecPresR": [
+			{
+				"C_DEC_COPLPRA1": "13",
+				"N_DEC_COORNIS1": 1,
+				"D_DEC_PRAERLT1": "PR",
+				"D_DEC_ORPEESR1": "RESMEX",
+				"F_DEC_FOEPCEH1": "2024-04-11",
+				"I_DEC_IOMPPEO1": "12"
+			}
+		]
+	}
+}
