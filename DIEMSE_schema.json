@@ -719,7 +719,8 @@
                         ],
                         "Clave negocio": [
                             "20002"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Numero De Operacion",
                     "maxLength": 16
@@ -731,7 +732,8 @@
                         "Clave_Inf": [
                             "C_IDC_ICDOENN1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Identificador Del Contribuyente",
                     "pattern": "^(-?)\\d{1,31}(\\.0{0,16})?$"
@@ -743,7 +745,8 @@
                         "Clave_Inf": [
                             "C_IDC_CTPLIEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Tipo De Persona",
                     "maxLength": 4
@@ -755,7 +758,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSCLIOA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Situacion Del Contribuyente",
                     "maxLength": 3
@@ -767,7 +771,8 @@
                         "Clave_Inf": [
                             "D_IDC_SEXO0001"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Sexo",
                     "maxLength": 1
@@ -779,7 +784,8 @@
                         "Clave_Inf": [
                             "C_IDC_CARRLDE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Regional De Recaudacion",
                     "maxLength": 5
@@ -791,7 +797,8 @@
                         "Clave_Inf": [
                             "C_IDC_CALRLDO1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Local De Recaudacion",
                     "maxLength": 10
@@ -803,7 +810,8 @@
                         "Clave_Inf": [
                             "C_IDC_CEFLNEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Entidad Federativa",
                     "maxLength": 6
@@ -815,7 +823,8 @@
                         "Clave_Inf": [
                             "C_IDC_EDCDEO1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Edad Del Contribuyente ",
                     "maximum": 999
@@ -827,7 +836,8 @@
                         "Clave_Inf": [
                             "C_IDC_CAELCCA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Actividad Economica",
                     "maxLength": 6
@@ -839,7 +849,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSLCAIV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Scian",
                     "maxLength": 6
@@ -851,7 +862,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSELECA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sector Economico",
                     "maxLength": 4
@@ -863,7 +875,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSSELUE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sub Sector Economico",
                     "maxLength": 4
@@ -875,7 +888,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRELACA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Rama Economica",
                     "maxLength": 4
@@ -887,7 +901,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSRELUA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Sub Rama Economica",
                     "maxLength": 4
@@ -899,7 +914,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRLEAGV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Regimen",
                     "maxLength": 18
@@ -911,7 +927,8 @@
                         "Clave_Inf": [
                             "TipoDoctoDigital"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Documento Digital",
                     "maxLength": 4,
@@ -932,7 +949,8 @@
                         "Clave_Inf": [
                             "Cert"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Certificado De Sello Digital",
                     "maxLength": 4000
@@ -946,7 +964,8 @@
                         ],
                         "Clave negocio": [
                             "30003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Serie Del Certificado Digital",
                     "maxLength": 20
@@ -958,7 +977,8 @@
                         "Clave_Inf": [
                             "Firma"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Firma Digital Del Emisor O Contribuyente Del Documento Digital",
                     "maxLength": 4000
@@ -972,7 +992,8 @@
                         ],
                         "Clave negocio": [
                             "40006"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Versión Del Estándar",
                     "maxLength": 10
@@ -986,7 +1007,8 @@
                         ],
                         "Clave negocio": [
                             "206005"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Emisor Del Documento Digital",
                     "maxLength": 13
@@ -998,7 +1020,8 @@
                         "Clave_Inf": [
                             "ECURP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Emisor",
                     "maxLength": 18
@@ -1010,7 +1033,8 @@
                         "Clave_Inf": [
                             "EApellPat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Emisor",
                     "maxLength": 200
@@ -1022,7 +1046,8 @@
                         "Clave_Inf": [
                             "EApellMat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Emisor",
                     "maxLength": 200
@@ -1034,7 +1059,8 @@
                         "Clave_Inf": [
                             "ENombre"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Emisor",
                     "maxLength": 254
@@ -1048,7 +1074,8 @@
                         ],
                         "Clave negocio": [
                             "206011"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Denominación O Razón Social Emisor",
                     "maxLength": 254
@@ -1060,7 +1087,8 @@
                         "Clave_Inf": [
                             "ECorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electrónico Emisor",
                     "maxLength": 50
@@ -1072,7 +1100,8 @@
                         "Clave_Inf": [
                             "ENumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Emisor",
                     "maxLength": 50
@@ -1084,7 +1113,8 @@
                         "Clave_Inf": [
                             "ERFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organización Del Emisor",
                     "maxLength": 13
@@ -1096,7 +1126,8 @@
                         "Clave_Inf": [
                             "EDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social De La Organización Del Emisor",
                     "maxLength": 254
@@ -1108,7 +1139,8 @@
                         "Clave_Inf": [
                             "ECalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Emisor Documento Digital",
                     "maxLength": 200
@@ -1120,7 +1152,8 @@
                         "Clave_Inf": [
                             "ENumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Exterior Emisor",
                     "maxLength": 55
@@ -1132,7 +1165,8 @@
                         "Clave_Inf": [
                             "ENumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Interior Emisor",
                     "maxLength": 30
@@ -1144,7 +1178,8 @@
                         "Clave_Inf": [
                             "EColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Emisor",
                     "maxLength": 50
@@ -1156,7 +1191,8 @@
                         "Clave_Inf": [
                             "ELocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Emisor",
                     "maxLength": 50
@@ -1168,7 +1204,8 @@
                         "Clave_Inf": [
                             "ERef"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Emisor",
                     "maxLength": 1000
@@ -1180,7 +1217,8 @@
                         "Clave_Inf": [
                             "EMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegación O Municipio Emisor",
                     "maxLength": 5
@@ -1192,7 +1230,8 @@
                         "Clave_Inf": [
                             "EEntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Emisor",
                     "maxLength": 2
@@ -1204,7 +1243,8 @@
                         "Clave_Inf": [
                             "EPais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Emisor",
                     "maxLength": 3
@@ -1216,7 +1256,8 @@
                         "Clave_Inf": [
                             "ECP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Código Postal Emisor",
                     "maxLength": 5
@@ -1230,7 +1271,8 @@
                         ],
                         "Clave negocio": [
                             "206000"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Emisor",
                     "maxLength": 13
@@ -1244,7 +1286,8 @@
                         ],
                         "Clave negocio": [
                             "207000"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Representante Legal Emisor",
                     "maxLength": 18
@@ -1256,7 +1299,8 @@
                         "Clave_Inf": [
                             "EApellPatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Apellido Paterno Representante Legal Emisor",
                     "maxLength": 200
@@ -1268,7 +1312,8 @@
                         "Clave_Inf": [
                             "EApellMatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Apellido Materno Representante Legal Emisor",
                     "maxLength": 200
@@ -1282,7 +1327,8 @@
                         ],
                         "Clave negocio": [
                             "206003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Representante Legal Emisor",
                     "maxLength": 254
@@ -1294,7 +1340,8 @@
                         "Clave_Inf": [
                             "RRFC"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Receptor",
                     "maxLength": 13
@@ -1306,7 +1353,8 @@
                         "Clave_Inf": [
                             "RCURP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Receptor",
                     "maxLength": 18
@@ -1318,7 +1366,8 @@
                         "Clave_Inf": [
                             "RApellPat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Receptor",
                     "maxLength": 200
@@ -1330,7 +1379,8 @@
                         "Clave_Inf": [
                             "RApellMat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Receptor",
                     "maxLength": 200
@@ -1342,7 +1392,8 @@
                         "Clave_Inf": [
                             "RNombre"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Receptor",
                     "maxLength": 254
@@ -1354,7 +1405,8 @@
                         "Clave_Inf": [
                             "RDenORazSoc"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social Receptor",
                     "maxLength": 254
@@ -1366,7 +1418,8 @@
                         "Clave_Inf": [
                             "RCorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electrónico Receptor",
                     "maxLength": 50
@@ -1378,7 +1431,8 @@
                         "Clave_Inf": [
                             "RNumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Receptor",
                     "maxLength": 50
@@ -1390,7 +1444,8 @@
                         "Clave_Inf": [
                             "RRFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organización Del Receptor",
                     "maxLength": 13
@@ -1402,7 +1457,8 @@
                         "Clave_Inf": [
                             "RDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social De La Organización Del Receptor",
                     "maxLength": 254
@@ -1414,7 +1470,8 @@
                         "Clave_Inf": [
                             "RCalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Receptor Documento Digital",
                     "maxLength": 200
@@ -1426,7 +1483,8 @@
                         "Clave_Inf": [
                             "RNumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Exterior Receptor",
                     "maxLength": 55
@@ -1438,7 +1496,8 @@
                         "Clave_Inf": [
                             "RNumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Interior Receptor",
                     "maxLength": 30
@@ -1450,7 +1509,8 @@
                         "Clave_Inf": [
                             "RColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Receptor",
                     "maxLength": 50
@@ -1462,7 +1522,8 @@
                         "Clave_Inf": [
                             "RLocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Receptor",
                     "maxLength": 50
@@ -1474,7 +1535,8 @@
                         "Clave_Inf": [
                             "RRef"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Receptor",
                     "maxLength": 1000
@@ -1486,7 +1548,8 @@
                         "Clave_Inf": [
                             "RMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegación O Municipio Receptor",
                     "maxLength": 5
@@ -1498,7 +1561,8 @@
                         "Clave_Inf": [
                             "REntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Receptor",
                     "maxLength": 2
@@ -1510,7 +1574,8 @@
                         "Clave_Inf": [
                             "RPais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Receptor",
                     "maxLength": 3
@@ -1522,7 +1587,8 @@
                         "Clave_Inf": [
                             "RCP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Código Postal Receptor",
                     "maxLength": 5
@@ -1534,7 +1600,8 @@
                         "Clave_Inf": [
                             "RRFCRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Receptor",
                     "maxLength": 13
@@ -1546,7 +1613,8 @@
                         "Clave_Inf": [
                             "RCURPRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Representante Legal Receptor",
                     "maxLength": 18
@@ -1558,7 +1626,8 @@
                         "Clave_Inf": [
                             "RApellPatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Representante Legal Receptor",
                     "maxLength": 200
@@ -1570,7 +1639,8 @@
                         "Clave_Inf": [
                             "RApellMatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Representante Legal Receptor",
                     "maxLength": 200
@@ -1582,7 +1652,8 @@
                         "Clave_Inf": [
                             "RNombreRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Representante Legal Receptor",
                     "maxLength": 254
@@ -1596,7 +1667,8 @@
                         ],
                         "Clave negocio": [
                             "40006"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Versión Del Estandar",
                     "maxLength": 10
@@ -1610,7 +1682,8 @@
                         ],
                         "Clave negocio": [
                             "206010"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Fiscal",
                     "maximum": 9999
@@ -1624,7 +1697,8 @@
                         ],
                         "Clave negocio": [
                             "206732"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo De Presentacion De La Declaracion Ejercicios 2013 Y Anteriores Del A1",
                     "maxLength": 1,
@@ -1642,7 +1716,8 @@
                         ],
                         "Clave negocio": [
                             "210001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo De Presentacion De La Declaracion Ejercicios 2013 Y Anteriores Del A2",
                     "maxLength": 1,
@@ -1660,7 +1735,8 @@
                         ],
                         "Clave negocio": [
                             "210056"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo De Presentacion De La Declaracion Ejercicios 2014 Y Posteriores Del A3",
                     "maxLength": 1,
@@ -1680,7 +1756,8 @@
                             "206733",
                             "210049",
                             "210057"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Declaración",
                     "maxLength": 3,
@@ -1702,7 +1779,8 @@
                         "Clave_Inf": [
                             "TipoComp"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo de Complementaria",
                     "maxLength": 3,
@@ -1724,7 +1802,8 @@
                             "206734",
                             "210050",
                             "210058"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Folio Anterior",
                     "maxLength": 16
@@ -1740,7 +1819,8 @@
                             "206735",
                             "210051",
                             "210059"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha De Presentación De La Declaración Que Se Está Sustituyendo",
                     "format": "date"
@@ -1754,7 +1834,8 @@
                         ],
                         "Clave negocio": [
                             "206773"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Operaciones Que Relaciona  Por Crédito Fiscal Por El  Isr  Que Se Dejaría De Pagar Por Aplicar La Deducción Inmediata Empresas Maquiladoras",
                     "maximum": 9
@@ -1768,7 +1849,8 @@
                         ],
                         "Clave negocio": [
                             "206765"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total Del Monto Original De La Inversión",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -1782,7 +1864,8 @@
                         ],
                         "Clave negocio": [
                             "206766"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total Del Monto Del Crédito Fiscal",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -1796,7 +1879,8 @@
                         ],
                         "Clave negocio": [
                             "206737"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Celebro Operaciones En Los Términos Del Decreto De Immex",
                     "maxLength": 1,
@@ -1814,7 +1898,8 @@
                         ],
                         "Clave negocio": [
                             "210061"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Celebró Operaciones De Maquila",
                     "maxLength": 1,
@@ -1832,7 +1917,8 @@
                         ],
                         "Clave negocio": [
                             "206738"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Se Trata De Una Empresa Bajo El Programa De Albergue",
                     "maxLength": 1,
@@ -1850,7 +1936,8 @@
                         ],
                         "Clave negocio": [
                             "206739"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Destinó Mercancías Al Régimen Aduanero De Recinto Fiscalizado Estratégico Con El Objeto De Elaborar Transformar O Reparar Dichas Mercancías Habitualmente En El País",
                     "maxLength": 1,
@@ -1868,7 +1955,8 @@
                         ],
                         "Clave negocio": [
                             "206740"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Apellidos Y Nombres O Denominación O Razón Social Del Residente En El Extranjero",
                     "maxLength": 254
@@ -1882,7 +1970,8 @@
                         ],
                         "Clave negocio": [
                             "206741"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Domicilio Del Residente En El Extranjero Con El Que Se Celebrarón Operaciones",
                     "maxLength": 254
@@ -1896,7 +1985,8 @@
                         ],
                         "Clave negocio": [
                             "206742"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Identificación Fiscal",
                     "maxLength": 25
@@ -1910,7 +2000,8 @@
                         ],
                         "Clave negocio": [
                             "206743"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Clave Del País De Residencia Anexo Uno",
                     "maxLength": 3,
@@ -2179,7 +2270,8 @@
                         ],
                         "Clave negocio": [
                             "206744"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Ingresos Por Aplicar Lo Dispuesto En El Decreto Immex",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2193,7 +2285,8 @@
                         ],
                         "Clave negocio": [
                             "206745"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Ingresos Por Elaborar Transformar O Reparar Habitualmente En El País Mercancías Destinadas Al Régimen Aduanero De Recinto Fiscalizado Estratégico",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2207,7 +2300,8 @@
                         ],
                         "Clave negocio": [
                             "206746"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Del Ejercicio Por Operaciones Del Decreto Immex",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2221,7 +2315,8 @@
                         ],
                         "Clave negocio": [
                             "206747"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Obtenida Por Elaborar Transformar O Reparar Habitualmente En El País Mercancías Destinadas Al Régimen Aduanero De Recinto Fiscalizado Estratégico",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2235,7 +2330,8 @@
                         ],
                         "Clave negocio": [
                             "206748"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Optó Por Aplicar La Fraccion Ii Del Artículo 216 Bis De La Lisr ",
                     "maxLength": 1,
@@ -2253,7 +2349,8 @@
                         ],
                         "Clave negocio": [
                             "206774"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Señale El Inciso De La Fraccion Ii Del Artículo 216 Bis De La Lisr Que Aplicó",
                     "maxLength": 1,
@@ -2271,7 +2368,8 @@
                         ],
                         "Clave negocio": [
                             "206749"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Operó Con Base A Un Acuerdo Anticipado De Precios De Transferencia Apa",
                     "maxLength": 1,
@@ -2289,7 +2387,8 @@
                         ],
                         "Clave negocio": [
                             "206750"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Aplico El Decreto Del 30 De Octubre Del 2003",
                     "maxLength": 1,
@@ -2307,7 +2406,8 @@
                         ],
                         "Clave negocio": [
                             "206775"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Importe Que Resultó De La Aplicación Del Decreto",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2321,7 +2421,8 @@
                         ],
                         "Clave negocio": [
                             "206751"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Aplicó Un Crédito Fiscal Por El Equivalente Al Monto Del Impuesto Que Dejarían De Pagar",
                     "maxLength": 1,
@@ -2339,7 +2440,8 @@
                         ],
                         "Clave negocio": [
                             "206776"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Activos Financieros Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2353,7 +2455,8 @@
                         ],
                         "Clave negocio": [
                             "206777"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Activos Fijos Gastos Y Cargos Diferidos Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2367,7 +2470,8 @@
                         ],
                         "Clave negocio": [
                             "206778"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Terrenos Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2381,7 +2485,8 @@
                         ],
                         "Clave negocio": [
                             "206779"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Inventarios Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2395,7 +2500,8 @@
                         ],
                         "Clave negocio": [
                             "206752"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor Total Activos Utilizados En Operación De Maquila Propiedad De La Empresa Maquiladora Anexo Uno",
                     "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -2409,7 +2515,8 @@
                         ],
                         "Clave negocio": [
                             "206780"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Los Inventarios En Moneda Nacional Del Residente En El Extranjero Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2423,7 +2530,8 @@
                         ],
                         "Clave negocio": [
                             "206781"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Los Activos Fijos En Moneda Nacional Del Residente En El Extranjero Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2437,7 +2545,8 @@
                         ],
                         "Clave negocio": [
                             "206753"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor Total De Los Activos Utilizados En La Operación De Maquila Propiedad Del Residente En El Extranjero Anexo Uno",
                     "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -2451,7 +2560,8 @@
                         ],
                         "Clave negocio": [
                             "206754"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor Total De Los Activos Utilizados Para Elaborar Transformar O Reparar Mercancías Destinadas Al Régimen Aduanero De Recinto Fiscalizado Estratégico Que Son Propiedad Del Residente En El País",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2465,7 +2575,8 @@
                         ],
                         "Clave negocio": [
                             "206755"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor Total De Los Activos Utilizados Para Elaborar Transformar O Reparar Mercancías Destinadas Al Régimen Aduanero De Recinto Fiscalizado Estratégico Que Son Propiedad Del Residente En El Extranjero",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2479,7 +2590,8 @@
                         ],
                         "Clave negocio": [
                             "206756"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Suma Del Valor De Los Activos Utilizados Anexo Uno",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2493,7 +2605,8 @@
                         ],
                         "Clave negocio": [
                             "206757"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Costos Y Gastos De Operación Incurridos Por El Contribuyente Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2507,7 +2620,8 @@
                         ],
                         "Clave negocio": [
                             "206758"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Costos Y Gastos De Operación Incurridos Por El Residente En El Extranjero Anexo Uno",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2521,7 +2635,8 @@
                         ],
                         "Clave negocio": [
                             "206759"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Suma De Los Costos Y Gastos De Operación Incurridos Anexo Uno",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2535,7 +2650,8 @@
                         ],
                         "Clave negocio": [
                             "206767"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Importe Del Crédito Fiscal Del Ejercicio No Acreditado En El Mismo",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2549,7 +2665,8 @@
                         ],
                         "Clave negocio": [
                             "206768"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Importe Del Crédito Fiscal De Ejercicios Anteriores Acreditado En El Ejercicio",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2563,7 +2680,8 @@
                         ],
                         "Clave negocio": [
                             "206769"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Importe Adicionado Anualmente Al Impuesto Del Ejercicio Causado Por Haber Determinado Créditos Fiscales En Ejercicios Anteriores",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2577,7 +2695,8 @@
                         ],
                         "Clave negocio": [
                             "206770"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Importe Pendiente De Adicionar Anualmente Al Impuesto Del Ejercicio Causado Por Haber Determinado Créditos Fiscales En Ejercicios Anteriores",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2591,7 +2710,8 @@
                         ],
                         "Clave negocio": [
                             "206771"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Importe Adicionado Anualmente  Al Impuesto Del Ejercicio Causado Por Haber Diferido  El Impuesto",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2605,7 +2725,8 @@
                         ],
                         "Clave negocio": [
                             "206772"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Crédito Fiscal Pendiente De Aplicar A Ejercicios Posteriores Por Diferimiento",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -2619,7 +2740,8 @@
                         ],
                         "Clave negocio": [
                             "210144"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total De Operaciones De Comercio Exterior",
                     "maximum": 99
@@ -2633,7 +2755,8 @@
                         ],
                         "Clave negocio": [
                             "210131"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Operaciones Que Relaciona  Por Cumplimiento En Materia De Precios De Transferencia Para Empresas Que Lleven A Cabo Operaciones De Maquila.",
                     "maximum": 9
@@ -2647,7 +2770,8 @@
                         ],
                         "Clave negocio": [
                             "210062"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Operó Bajo El Programa De Albergue",
                     "maxLength": 1,
@@ -2665,7 +2789,8 @@
                         ],
                         "Clave negocio": [
                             "\n210066"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Se Trata De Una Empresa Que Obtuvo La Certificación En Materia De Iva E Ieps",
                     "maxLength": 1,
@@ -2683,7 +2808,8 @@
                         ],
                         "Clave negocio": [
                             "210067"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Se Trata De Empresa Certificada ",
                     "maxLength": 1,
@@ -2701,7 +2827,8 @@
                         ],
                         "Clave negocio": [
                             "210177"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Señale El Rubro O Letra De La Regla 3 8 1 De Comercio Exterior Bajo La Cual Se Otorga El Registro",
                     "maxLength": 1,
@@ -2723,7 +2850,8 @@
                         ],
                         "Clave negocio": [
                             "210068"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Del Sector Económico Al Que Pertenece",
                     "maxLength": 7,
@@ -2808,7 +2936,8 @@
                         ],
                         "Clave negocio": [
                             "210069"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Apellido Y Nombre O Denominación O Razón Social Del Residente En El Extranjero Con El Que Se Celebraron Operaciones De Maquila",
                     "maxLength": 254
@@ -2822,7 +2951,8 @@
                         ],
                         "Clave negocio": [
                             "210070"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si El Residente En El Extranjero Es Una Parte Relacionada",
                     "maxLength": 1,
@@ -2840,7 +2970,8 @@
                         ],
                         "Clave negocio": [
                             "210071"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Domicilio Del Residente En El Extranjero Con El Que Se Celebraron Operaciones De Maquila  Anexo Tres Modalidad Immex",
                     "maxLength": 254
@@ -2854,7 +2985,8 @@
                         ],
                         "Clave negocio": [
                             "210072"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Identificación Fiscal Anexo Tres Modalidad Immex",
                     "maxLength": 25
@@ -2868,7 +3000,8 @@
                         ],
                         "Clave negocio": [
                             "210073"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Clave Del País De Residencia",
                     "maxLength": 3,
@@ -3137,7 +3270,8 @@
                         ],
                         "Clave negocio": [
                             "210074"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Optó Por El Safe Harbour",
                     "maxLength": 1,
@@ -3155,7 +3289,8 @@
                         ],
                         "Clave negocio": [
                             "210075"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Señale La Fraccion Que Aplicó Del Primer Párrafo Del  Artículo 182 De La Lisr",
                     "maxLength": 1,
@@ -3173,7 +3308,8 @@
                         ],
                         "Clave negocio": [
                             "210076"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Operó U Operará Con Base A Un Acuerdo Anticipado De Precios De Transferencia Apa",
                     "maxLength": 1,
@@ -3191,7 +3327,8 @@
                         ],
                         "Clave negocio": [
                             "210077"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique El Periodo Inicial De Vigencia Del Apa",
                     "maximum": 9999
@@ -3205,7 +3342,8 @@
                         ],
                         "Clave negocio": [
                             "210078"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique El Periodo Final De Vigencia Del Apa",
                     "maximum": 9999
@@ -3219,7 +3357,8 @@
                         ],
                         "Clave negocio": [
                             "210079"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Indique Si Aplicó La Deducción Adicional Para Maquiladoras",
                     "maxLength": 1,
@@ -3237,7 +3376,8 @@
                         ],
                         "Clave negocio": [
                             "210080"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Ingresos Derivados De La Operación De Maquila ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3251,7 +3391,8 @@
                         ],
                         "Clave negocio": [
                             "210081"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Ingresos Distintos De La Operación De Maquila ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3265,7 +3406,8 @@
                         ],
                         "Clave negocio": [
                             "210086"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Sueldos  Y Salarios",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3279,7 +3421,8 @@
                         ],
                         "Clave negocio": [
                             "210087"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Prestaciones",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3293,7 +3436,8 @@
                         ],
                         "Clave negocio": [
                             "210088"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Arrendamiento De Inmuebles",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3307,7 +3451,8 @@
                         ],
                         "Clave negocio": [
                             "210089"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Deducción De Inversiones",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3321,7 +3466,8 @@
                         ],
                         "Clave negocio": [
                             "210090"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Mantenimiento De Maquinaria Y Equipo",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3335,7 +3481,8 @@
                         ],
                         "Clave negocio": [
                             "210091"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Compra De Insumos Nacionales O Nacionalizados",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3349,7 +3496,8 @@
                         ],
                         "Clave negocio": [
                             "210092"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Otros Costos Y Gastos De Operación Incurridos",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3363,7 +3511,8 @@
                         ],
                         "Clave negocio": [
                             "210093"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total De Los Costos Y Gastos De Operación ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3377,7 +3526,8 @@
                         ],
                         "Clave negocio": [
                             "210094"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Antes De Ptu Del Ejercicio Por Operaciones De Maquila",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3391,7 +3541,8 @@
                         ],
                         "Clave negocio": [
                             "210095"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Despues De Ptu Del Ejercicio Por Operaciones De Maquila",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3405,7 +3556,8 @@
                         ],
                         "Clave negocio": [
                             "210096"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Isr Pagado Por Operaciones De Maquila ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3419,7 +3571,8 @@
                         ],
                         "Clave negocio": [
                             "210097"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Antes De Ptu Del Ejercicio Por Operaciones Distintas De Maquila ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3433,7 +3586,8 @@
                         ],
                         "Clave negocio": [
                             "210098"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal  Despues De Ptu Del Ejercicio Por Operaciones Distintas De Maquila ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3447,7 +3601,8 @@
                         ],
                         "Clave negocio": [
                             "210099"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Isr Pagado Por Operaciones Distintas De Maquila ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3461,7 +3616,8 @@
                         ],
                         "Clave negocio": [
                             "210107"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Porcentaje Que Representa La Maquinaria Y Equipo Propiedad Del Residente En El Extranjero  Entre El Total De La Maquinaria Y Equipo Utilizada En La Operación De Maquila",
                     "pattern": "^(-?)\\d{0,4}\\.?\\d{0,2}$"
@@ -3475,7 +3631,8 @@
                         ],
                         "Clave negocio": [
                             "210108"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado I",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3489,7 +3646,8 @@
                         ],
                         "Clave negocio": [
                             "210109"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Pendiente Por Depreciar Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado I",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3503,7 +3661,8 @@
                         ],
                         "Clave negocio": [
                             "210110"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión  Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Ii",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3517,7 +3676,8 @@
                         ],
                         "Clave negocio": [
                             "210111"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Pendiente Por Depreciar Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Ii",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3531,7 +3691,8 @@
                         ],
                         "Clave negocio": [
                             "210112"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Iii",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3545,7 +3706,8 @@
                         ],
                         "Clave negocio": [
                             "210113"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Pendiente Por Depreciar Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Iii",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3559,7 +3721,8 @@
                         ],
                         "Clave negocio": [
                             "210114"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Iv",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3573,7 +3736,8 @@
                         ],
                         "Clave negocio": [
                             "210115"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Pendiente Por Depreciar Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Iv",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3587,7 +3751,8 @@
                         ],
                         "Clave negocio": [
                             "210116"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión Residente En Mexico Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado V",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3601,7 +3766,8 @@
                         ],
                         "Clave negocio": [
                             "210117"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión Residente En El Extranjero Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado V",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3615,7 +3781,8 @@
                         ],
                         "Clave negocio": [
                             "210118"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Pendiente Por  Depreciar Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado V",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3629,7 +3796,8 @@
                         ],
                         "Clave negocio": [
                             "210119"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Vi",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3643,7 +3811,8 @@
                         ],
                         "Clave negocio": [
                             "210120"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Original De La Inversión Residente En El Extranjero Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Vi",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3657,7 +3826,8 @@
                         ],
                         "Clave negocio": [
                             "210121"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Pendiente Por Depreciar Del Cálculo Del Porcentaje De La Maquinaria Y Equipo Utilizado En La Actividad De Maquila Apartado Vi",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3671,7 +3841,8 @@
                         ],
                         "Clave negocio": [
                             "210122"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Activos Financieros",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3685,7 +3856,8 @@
                         ],
                         "Clave negocio": [
                             "210123"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Activos Fijos Gastos Y Cargos Diferidos",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3699,7 +3871,8 @@
                         ],
                         "Clave negocio": [
                             "210124"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Terrenos ",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3713,7 +3886,8 @@
                         ],
                         "Clave negocio": [
                             "210125"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Inventarios",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3727,7 +3901,8 @@
                         ],
                         "Clave negocio": [
                             "210126"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor Total De Los Activos Utilizados En La Operación De Maquila Propiedad De La Empresa Maquiladora",
                     "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -3741,7 +3916,8 @@
                         ],
                         "Clave negocio": [
                             "210127"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Los Inventarios En Moneda Nacional Del Residente En El Extranjero",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3755,7 +3931,8 @@
                         ],
                         "Clave negocio": [
                             "210128"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor De Los Activos Fijos En Moneda Nacional Del Residente En El Extranjero",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3769,7 +3946,8 @@
                         ],
                         "Clave negocio": [
                             "210129"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Valor Total De Los Activos Utilizados En La Operación De Maquila Propiedad Del Residente En El Extranjero",
                     "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -3783,7 +3961,8 @@
                         ],
                         "Clave negocio": [
                             "210130"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Suma Del Valor De Los Activos Utilizados",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3797,7 +3976,8 @@
                         ],
                         "Clave negocio": [
                             "210132"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Costos Y Gastos De Operación Incurridos Por El Contribuyente ",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3811,7 +3991,8 @@
                         ],
                         "Clave negocio": [
                             "210133"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De Los Costos Y Gastos De Operación Incurridos Por El Residente En El Extranjero",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3825,7 +4006,8 @@
                         ],
                         "Clave negocio": [
                             "210134"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Suma De Los Costos Y Gastos De Operación Incurridos",
                     "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -3839,7 +4021,8 @@
                         ],
                         "Clave negocio": [
                             "210135"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Obtenida Sobre Activos ",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3853,7 +4036,8 @@
                         ],
                         "Clave negocio": [
                             "210136"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Obtenida Sobre Costos Y Gastos",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3867,7 +4051,8 @@
                         ],
                         "Clave negocio": [
                             "210137"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Porcentaje De Utilidad Fiscal Sobre El Valor De Activos",
                     "pattern": "^(-?)\\d{0,4}\\.?\\d{0,2}$"
@@ -3881,7 +4066,8 @@
                         ],
                         "Clave negocio": [
                             "210138"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Porcentaje De Utilidad Fiscal Sobre El Valor De Costos Y Gastos",
                     "pattern": "^(-?)\\d{0,4}\\.?\\d{0,2}$"
@@ -3895,7 +4081,8 @@
                         ],
                         "Clave negocio": [
                             "210139"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total De Pagos Por Concepto De Servicios Personales Subordinados Realizados Gravados Y Exentos Para Sus Trabajadores Por La Operación De Maquila",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3909,7 +4096,8 @@
                         ],
                         "Clave negocio": [
                             "210140"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total De Pagos Por Concepto De Servicios Personales Subordinados Realizados Exentos Para Sus Trabajadores Por La Operación De Maquila",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3923,7 +4111,8 @@
                         ],
                         "Clave negocio": [
                             "210141"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Que Resulta De Dividir Entre Dos Los Pagos Por Concepto De Servicios Personales Subordinados Exentos",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3937,7 +4126,8 @@
                         ],
                         "Clave negocio": [
                             "210142"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Producto De Multiplicar Por El 3Pct Al Total De Servicios Personales Subordinados Exentos",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3951,7 +4141,8 @@
                         ],
                         "Clave negocio": [
                             "210143"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto De La Deducción Adicional",
                     "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -3965,7 +4156,8 @@
                         ],
                         "Clave negocio": [
                             "210144"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número Total De Empresas Residentes En El Extranjero Que Realizan Actividades De Maquila Al Interior De La Empresa Con Programa De Maquila Bajo La Modalidad De Albergue",
                     "maximum": 99
@@ -3979,7 +4171,8 @@
                         ],
                         "Clave negocio": [
                             "210152"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Antes De Ptu Del Ejercicio ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3993,7 +4186,8 @@
                         ],
                         "Clave negocio": [
                             "210153"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Utilidad Fiscal Despues De Ptu Del Ejercicio",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -4007,7 +4201,8 @@
                         ],
                         "Clave negocio": [
                             "210154"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Pérdidas Fiscales De Años Anteriores Aplicadas En El Ejercicio ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -4021,7 +4216,8 @@
                         ],
                         "Clave negocio": [
                             "210155"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Resultado Fiscal Del Ejercicio ",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -4035,7 +4231,8 @@
                         ],
                         "Clave negocio": [
                             "210156"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Isr Pagado Del Ejercicio",
                     "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -4047,7 +4244,8 @@
                         "Clave_Inf": [
                             "Version"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Versión Sello Digital",
                     "maxLength": 10
@@ -4061,7 +4259,8 @@
                         ],
                         "Clave negocio": [
                             "206011"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Denominación O Razon Social Sello Digital",
                     "maxLength": 254
@@ -4075,7 +4274,8 @@
                         ],
                         "Clave negocio": [
                             "206005"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Emisor Del Sello Digital",
                     "maxLength": 13
@@ -4089,7 +4289,8 @@
                         ],
                         "Clave negocio": [
                             "206010"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Digital En Sello Digital",
                     "maximum": 9999
@@ -4101,7 +4302,8 @@
                         "Clave_Inf": [
                             "Periodo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Periodo Documento Digital En Sello Digital",
                     "maxLength": 3,
@@ -4164,7 +4366,8 @@
                         ],
                         "Clave negocio": [
                             "40002"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Presentación",
                     "format": "date-time"
@@ -4178,7 +4381,8 @@
                         ],
                         "Clave negocio": [
                             "40005"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Medio Presentación",
                     "maxLength": 2,
@@ -4197,7 +4401,8 @@
                         "Clave_Inf": [
                             "NombreArch"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre De Archivo",
                     "maxLength": 30
@@ -4211,7 +4416,8 @@
                         ],
                         "Clave negocio": [
                             "40003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Sello Digital",
                     "format": "date-time"
@@ -4223,7 +4429,8 @@
                         "Clave_Inf": [
                             "Estatus"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Estatus Documento Digital",
                     "maxLength": 3,
@@ -4242,7 +4449,8 @@
                         "Clave_Inf": [
                             "Firma"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Firma Digital Del Emisor O Contribuyente Del Sello Digital",
                     "maxLength": 4000
@@ -4256,7 +4464,8 @@
                         ],
                         "Clave negocio": [
                             "30001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Sello Digital",
                     "maxLength": 4000
@@ -4268,7 +4477,8 @@
                         "Clave_Inf": [
                             "NoCertificado"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Certificado",
                     "maxLength": 4000
@@ -4280,7 +4490,8 @@
                         "Clave_Inf": [
                             "D_DEC_ARACFMT1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Actualizacion Del Rfc Ampliado",
                     "maxLength": 1
@@ -4496,7 +4707,8 @@
                             ],
                             "Clave negocio": [
                                 "6001131"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero De Consecutivo O Identificador Unico Que Le Corresponde Al Registro Del Credito Fiscal Por El Isr Que Dejaria De Pagar Por La Deduccion Inmediata",
                         "maximum": 9
@@ -4510,7 +4722,8 @@
                             ],
                             "Clave negocio": [
                                 "206761"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Concepto De La Inversion De Bienes Nuevos Activo Fijo",
                         "maxLength": 60
@@ -4524,7 +4737,8 @@
                             ],
                             "Clave negocio": [
                                 "206762"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Monto Original De La Inversion",
                         "pattern": "^(-?)\\d{0,14}\\.?\\d{0,2}$"
@@ -4538,7 +4752,8 @@
                             ],
                             "Clave negocio": [
                                 "206763"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Porcentaje De Deduccion Inmediata Aplicada",
                         "pattern": "^(-?)\\d{0,5}\\.?\\d{0,2}$"
@@ -4552,7 +4767,8 @@
                             ],
                             "Clave negocio": [
                                 "206764"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Monto Del Credito Fiscal",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -4594,7 +4810,8 @@
                             ],
                             "Clave negocio": [
                                 "210082"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero Consecutivo De Operacion",
                         "maximum": 99
@@ -4608,7 +4825,8 @@
                             ],
                             "Clave negocio": [
                                 "210083"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Concepto Del Ingreso",
                         "maxLength": 120
@@ -4622,7 +4840,8 @@
                             ],
                             "Clave negocio": [
                                 "210084"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Monto Del Ingreso Obtenido",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -4636,7 +4855,8 @@
                             ],
                             "Clave negocio": [
                                 "210085"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Nombre De La Persona Con Quien Se Efectuo La Operacion",
                         "maxLength": 254
@@ -4740,7 +4960,8 @@
                             ],
                             "Clave negocio": [
                                 "210145"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero Consecutivo De Cada Registro Que Se Agrego En Esta Operacion",
                         "maximum": 99
@@ -4754,7 +4975,8 @@
                             ],
                             "Clave negocio": [
                                 "210146"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Nombre Del Residente En El Extranjero",
                         "maxLength": 254
@@ -4768,7 +4990,8 @@
                             ],
                             "Clave negocio": [
                                 "210147"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Identificador Fiscal Del Residente En El Extranjero",
                         "maxLength": 25
@@ -4782,7 +5005,8 @@
                             ],
                             "Clave negocio": [
                                 "210148"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Pais De Residencia Del Proveedor Extranjero",
                         "maxLength": 3,
@@ -5040,7 +5264,8 @@
                             ],
                             "Clave negocio": [
                                 "210149"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Monto De Los Ingresos",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5054,7 +5279,8 @@
                             ],
                             "Clave negocio": [
                                 "210150"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Fecha De Inicio De Operaciones",
                         "format": "date"
@@ -5068,7 +5294,8 @@
                             ],
                             "Clave negocio": [
                                 "210151"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Sector Al Que Pertenece",
                         "maxLength": 7,
@@ -5307,7 +5534,8 @@
                             ],
                             "Clave negocio": [
                                 "210002"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero Consecutivo De Cada Registro",
                         "maximum": 99
@@ -5321,7 +5549,8 @@
                             ],
                             "Clave negocio": [
                                 "210003"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Periodo Es Numero De Mes",
                         "maxLength": 2,
@@ -5349,7 +5578,8 @@
                             ],
                             "Clave negocio": [
                                 "210004"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Empresa Certificada De Comercio Exterior",
                         "maxLength": 1,
@@ -5371,7 +5601,8 @@
                             ],
                             "Clave negocio": [
                                 "210005"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Modalidad Del Programa Immex Autorizado",
                         "maxLength": 1,
@@ -5393,7 +5624,8 @@
                             ],
                             "Clave negocio": [
                                 "210006"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Nombre Denominación O Razon Social Del Residente En El Extranjero",
                         "maxLength": 254
@@ -5407,7 +5639,8 @@
                             ],
                             "Clave negocio": [
                                 "210007"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Identificador Fiscal Del Residente En El  Extranjero",
                         "maxLength": 25
@@ -5421,7 +5654,8 @@
                             ],
                             "Clave negocio": [
                                 "210008"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Pais De Residencia Del Proveedor Extranjero",
                         "maxLength": 3,
@@ -5679,7 +5913,8 @@
                             ],
                             "Clave negocio": [
                                 "210009"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Los Insumos Con Clave De Pedimento In",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5693,7 +5928,8 @@
                             ],
                             "Clave negocio": [
                                 "210010"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De La Maquinaria Y Equipo Con Clave De Pedimento Af",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5707,7 +5943,8 @@
                             ],
                             "Clave negocio": [
                                 "210011"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Importaciones Temporales",
                         "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -5721,7 +5958,8 @@
                             ],
                             "Clave negocio": [
                                 "210012"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias Recibidas Con Clave De Pedimento V1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5735,7 +5973,8 @@
                             ],
                             "Clave negocio": [
                                 "210013"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Importaciones Definitivas Con Clave De Pedimento A1",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5749,7 +5988,8 @@
                             ],
                             "Clave negocio": [
                                 "210014"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De La Regularizacion De Mercancias Con Clave De Pedimento A3",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5763,7 +6003,8 @@
                             ],
                             "Clave negocio": [
                                 "210015"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor Del Cambio De Regimen De Bienes De Activo Fijo Con Clave De Pedimento F5",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5777,7 +6018,8 @@
                             ],
                             "Clave negocio": [
                                 "210016"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Importaciones Definitivas",
                         "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -5791,7 +6033,8 @@
                             ],
                             "Clave negocio": [
                                 "210017"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor En Aduana De Las Mercancias Que Cambian De Regimen De Importacion Temporal A Definitiva Con Clave  De Pedimento F4",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5805,7 +6048,8 @@
                             ],
                             "Clave negocio": [
                                 "210018"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Residentes En El Pais Para Su Importacion Definitiva Con Clave De Pedimento V5",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5819,7 +6063,8 @@
                             ],
                             "Clave negocio": [
                                 "210019"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Facturas De Venta Emitidas Al Sector Automotriz",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5833,7 +6078,8 @@
                             ],
                             "Clave negocio": [
                                 "210020"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De Pedimento V1 Otras Empresas Immex",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5847,7 +6093,8 @@
                             ],
                             "Clave negocio": [
                                 "210021"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De Pedimento V5 Otras Empresas Immex",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5861,7 +6108,8 @@
                             ],
                             "Clave negocio": [
                                 "210022"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Otras Empresas Immex",
                         "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -5875,7 +6123,8 @@
                             ],
                             "Clave negocio": [
                                 "210023"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De  Pedimento V1 Empresas De La Industria Automotriz",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5889,7 +6138,8 @@
                             ],
                             "Clave negocio": [
                                 "210024"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De Pedimento V5 Empresas De La Industria Automotriz",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -5903,7 +6153,8 @@
                             ],
                             "Clave negocio": [
                                 "210025"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Empresas De La Industria Automotriz",
                         "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -5917,7 +6168,8 @@
                             ],
                             "Clave negocio": [
                                 "210026"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Recintos Fiscalizados Estrategicos Con Clave De Pedimento V1",
                         "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -5931,7 +6183,8 @@
                             ],
                             "Clave negocio": [
                                 "210027"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor Total De Las Transferencias",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5945,7 +6198,8 @@
                             ],
                             "Clave negocio": [
                                 "210028"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Mercancias Retornadas Con Clave De Pedimento Rt",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5959,7 +6213,8 @@
                             ],
                             "Clave negocio": [
                                 "210029"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Mercancias Retornadas En El Mismo Estado Con Clave De Pedimento H1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5973,7 +6228,8 @@
                             ],
                             "Clave negocio": [
                                 "210030"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Exportaciones Definitivas Con Clave Pedimento A1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -5987,7 +6243,8 @@
                             ],
                             "Clave negocio": [
                                 "210031"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Sueldos Y Salarios",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -6001,7 +6258,8 @@
                             ],
                             "Clave negocio": [
                                 "210032"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Prestaciones",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -6015,7 +6273,8 @@
                             ],
                             "Clave negocio": [
                                 "210033"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Arrendamiento De Inmuebles",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -6029,7 +6288,8 @@
                             ],
                             "Clave negocio": [
                                 "210034"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Depreciacion",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -6043,7 +6303,8 @@
                             ],
                             "Clave negocio": [
                                 "210035"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Mantenimiento Maquinaria Y Equipo",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -6057,7 +6318,8 @@
                             ],
                             "Clave negocio": [
                                 "210036"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Compra De Insumos Nacionales O Nacionalizados",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -6071,7 +6333,8 @@
                             ],
                             "Clave negocio": [
                                 "210037"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Otros Costos Y Gastos De Operacion Incurridos",
                         "pattern": "^(-?)\\d{1,12}(\\.0{0,16})?$"
@@ -6085,7 +6348,8 @@
                             ],
                             "Clave negocio": [
                                 "210038"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total Del Valor Agregado De Exportacion A Las Mercancias Que Se Retornen",
                         "pattern": "^(-?)\\d{1,13}(\\.0{0,16})?$"
@@ -6099,7 +6363,8 @@
                             ],
                             "Clave negocio": [
                                 "210039"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Acreditable",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6113,7 +6378,8 @@
                             ],
                             "Clave negocio": [
                                 "210040"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Retenido",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6127,7 +6393,8 @@
                             ],
                             "Clave negocio": [
                                 "210041"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Trasladado",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6141,7 +6408,8 @@
                             ],
                             "Clave negocio": [
                                 "210042"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Compensado",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6155,7 +6423,8 @@
                             ],
                             "Clave negocio": [
                                 "210043"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Solicitado En Devolucion Del Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6169,7 +6438,8 @@
                             ],
                             "Clave negocio": [
                                 "210044"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Devuelto En El Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6183,7 +6453,8 @@
                             ],
                             "Clave negocio": [
                                 "210045"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Devuelto De Ejercicios Anteriores",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6197,7 +6468,8 @@
                             ],
                             "Clave negocio": [
                                 "210046"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor Total De Las Ventas Presentadas En El Reporte Anual",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6211,7 +6483,8 @@
                             ],
                             "Clave negocio": [
                                 "210047"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor Total De Las Exportaciones Presentadas En El Reporte Anual",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6253,7 +6526,8 @@
                             ],
                             "Clave negocio": [
                                 "210180"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero Consecutivo De Registros Que Capture El Contribuyente",
                         "maximum": 9
@@ -6267,7 +6541,8 @@
                             ],
                             "Clave negocio": [
                                 "210063"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Modalidades Del Programa Immex Que Le Fueron Autorizadas",
                         "maxLength": 1,
@@ -6289,7 +6564,8 @@
                             ],
                             "Clave negocio": [
                                 "210064"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero De Programa Immex",
                         "maxLength": 15
@@ -6303,7 +6579,8 @@
                             ],
                             "Clave negocio": [
                                 "210065"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Fecha De Inicio De Operacion Con Este Programa",
                         "format": "date"
@@ -6399,7 +6676,8 @@
                             ],
                             "Clave negocio": [
                                 "XXXX01"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero Consecutivo Que Le Corresponda",
                         "maximum": 99
@@ -6413,7 +6691,8 @@
                             ],
                             "Clave negocio": [
                                 "XXXX02"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Mes De Acuerdo Al Catalogo Publicado En La Pagina Del Sat",
                         "maxLength": 2,
@@ -6441,7 +6720,8 @@
                             ],
                             "Clave negocio": [
                                 "210157"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Importaciones Temporales",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6455,7 +6735,8 @@
                             ],
                             "Clave negocio": [
                                 "210158"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias Recibidas Con Clave De Pedimento V1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6469,7 +6750,8 @@
                             ],
                             "Clave negocio": [
                                 "210159"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Importaciones Definitivas Con Clave De Pedimento A1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6483,7 +6765,8 @@
                             ],
                             "Clave negocio": [
                                 "210160"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De La Regularizacion De Mercancias Con Clave De Pedimento A3",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6497,7 +6780,8 @@
                             ],
                             "Clave negocio": [
                                 "210161"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor Del Cambio De Regimen De Bienes De Activo Fijo Con Clave De Pedimento F5",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6511,7 +6795,8 @@
                             ],
                             "Clave negocio": [
                                 "210162"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Importaciones Definitivas",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6525,7 +6810,8 @@
                             ],
                             "Clave negocio": [
                                 "210163"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor En Aduanas De Las Mercancias Que Cambian De Regimen De Importacion Temporal A Definitiva Con Clave  De Pedimento F4",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6539,7 +6825,8 @@
                             ],
                             "Clave negocio": [
                                 "210164"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Residentes En El Pais Para Su Importacion Definitiva Con Clave De Pedimento V5",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6553,7 +6840,8 @@
                             ],
                             "Clave negocio": [
                                 "210165"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Facturas De Venta Emitidas Al Sector Automotriz",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6567,7 +6855,8 @@
                             ],
                             "Clave negocio": [
                                 "210166"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De Pedimento V1 Otras Empresas Immex",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6581,7 +6870,8 @@
                             ],
                             "Clave negocio": [
                                 "210167"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De Pedimento V5 Otras Empresas Immex",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6595,7 +6885,8 @@
                             ],
                             "Clave negocio": [
                                 "210168"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Otras Empresas Immex",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6609,7 +6900,8 @@
                             ],
                             "Clave negocio": [
                                 "210169"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De  Pedimento V1 Empresas De La Industria Automotriz",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6623,7 +6915,8 @@
                             ],
                             "Clave negocio": [
                                 "210170"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Transferencias De Mercancias Con Clave De Pedimento V5 Empresas De La Industria Automotriz",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6637,7 +6930,8 @@
                             ],
                             "Clave negocio": [
                                 "210171"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Empresas De La Industria Automotriz",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6651,7 +6945,8 @@
                             ],
                             "Clave negocio": [
                                 "210172"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Transferencias A Recintos Fiscalizados Estrategicos Con Clave De Pedimento V1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6665,7 +6960,8 @@
                             ],
                             "Clave negocio": [
                                 "210173"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor Total De Las Transferencias",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6679,7 +6975,8 @@
                             ],
                             "Clave negocio": [
                                 "210174"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Mercancias Retornadas Con Clave De Pedimento Rt",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6693,7 +6990,8 @@
                             ],
                             "Clave negocio": [
                                 "210175"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Mercancias Retornadas En El Mismo Estado Con Clave De Pedimento H1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6707,7 +7005,8 @@
                             ],
                             "Clave negocio": [
                                 "210176"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Valor De Las Exportaciones Definitivas Con Clave Pedimento A1",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6764,7 +7063,8 @@
                             ],
                             "Clave negocio": [
                                 "210178"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero Consecutivo Que Le Corresponda De Acuerdo",
                         "maximum": 99
@@ -6778,7 +7078,8 @@
                             ],
                             "Clave negocio": [
                                 "210179"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Mes De Acuerdo Al Catalogo Publicado En La Pagina Del Sat",
                         "maxLength": 2,
@@ -6806,7 +7107,8 @@
                             ],
                             "Clave negocio": [
                                 "210100"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva A Creditable",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6820,7 +7122,8 @@
                             ],
                             "Clave negocio": [
                                 "210101"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Retenido",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6834,7 +7137,8 @@
                             ],
                             "Clave negocio": [
                                 "210102"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Trasladado",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6848,7 +7152,8 @@
                             ],
                             "Clave negocio": [
                                 "210103"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Compensado",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6862,7 +7167,8 @@
                             ],
                             "Clave negocio": [
                                 "210104"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Solicitado En Devolucion Del Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6876,7 +7182,8 @@
                             ],
                             "Clave negocio": [
                                 "210105"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Devuelto En El Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -6890,7 +7197,8 @@
                             ],
                             "Clave negocio": [
                                 "210106"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Iva Devuelto De Ejercicios Anteriores",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"

@@ -370,7 +370,8 @@
                         ],
                         "Clave negocio": [
                             "250907.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Numero De Operacion",
                     "maxLength": 16
@@ -382,7 +383,8 @@
                         "Clave_Inf": [
                             "Version"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Version Del Estandar",
                     "maxLength": 10
@@ -394,7 +396,8 @@
                         "Clave_Inf": [
                             "TipoDoctoDigital"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Documento Digital",
                     "maxLength": 4,
@@ -415,7 +418,8 @@
                         "Clave_Inf": [
                             "Cert"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Certificado De Sello Digital",
                     "maxLength": 4000
@@ -427,7 +431,8 @@
                         "Clave_Inf": [
                             "NumCert"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Numero De Serie Del Certificado Digital",
                     "maxLength": 20
@@ -439,7 +444,8 @@
                         "Clave_Inf": [
                             "Firma"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Firma Digital Del Emisor O Contribuyente",
                     "maxLength": 4000
@@ -453,7 +459,8 @@
                         ],
                         "Clave negocio": [
                             "250901.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Emisor Del Documento Digital",
                     "maxLength": 13
@@ -465,7 +472,8 @@
                         "Clave_Inf": [
                             "ECURP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Clave Unica De Registro De Poblacion Emisor",
                     "maxLength": 18
@@ -477,7 +485,8 @@
                         "Clave_Inf": [
                             "EApellPat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Emisor",
                     "maxLength": 200
@@ -489,7 +498,8 @@
                         "Clave_Inf": [
                             "EApellMat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Emisor",
                     "maxLength": 200
@@ -501,7 +511,8 @@
                         "Clave_Inf": [
                             "ENombre"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Emisor",
                     "maxLength": 254
@@ -515,7 +526,8 @@
                         ],
                         "Clave negocio": [
                             "250902.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Denominacion O Razon Social Del Contribuyente Emisor Del Documento Digital",
                     "maxLength": 254
@@ -527,7 +539,8 @@
                         "Clave_Inf": [
                             "ECorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electrónico Emisor",
                     "maxLength": 50
@@ -539,7 +552,8 @@
                         "Clave_Inf": [
                             "ENumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Emisor",
                     "maxLength": 50
@@ -551,7 +565,8 @@
                         "Clave_Inf": [
                             "ERFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organización Del Emisor",
                     "maxLength": 13
@@ -563,7 +578,8 @@
                         "Clave_Inf": [
                             "EDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social De La Organización Del Emisor",
                     "maxLength": 254
@@ -575,7 +591,8 @@
                         "Clave_Inf": [
                             "Ecalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Emisor Documento Digital",
                     "maxLength": 200
@@ -587,7 +604,8 @@
                         "Clave_Inf": [
                             "ENumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Numero Exterior Emisor",
                     "maxLength": 55
@@ -599,7 +617,8 @@
                         "Clave_Inf": [
                             "ENumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Numero Interior Emisor",
                     "maxLength": 30
@@ -611,7 +630,8 @@
                         "Clave_Inf": [
                             "EColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Emisor",
                     "maxLength": 50
@@ -623,7 +643,8 @@
                         "Clave_Inf": [
                             "ELocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Emisor",
                     "maxLength": 50
@@ -635,7 +656,8 @@
                         "Clave_Inf": [
                             "ERef"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Emisor",
                     "maxLength": 1000
@@ -647,7 +669,8 @@
                         "Clave_Inf": [
                             "EMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegacion O Municipio Emisor",
                     "maxLength": 5
@@ -659,7 +682,8 @@
                         "Clave_Inf": [
                             "EEntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Emisor",
                     "maxLength": 2
@@ -671,7 +695,8 @@
                         "Clave_Inf": [
                             "EPais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Emisor",
                     "maxLength": 3
@@ -683,7 +708,8 @@
                         "Clave_Inf": [
                             "ECP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Codigo Postal Emisor",
                     "maxLength": 5
@@ -695,7 +721,8 @@
                         "Clave_Inf": [
                             "ERFCRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Emisor",
                     "maxLength": 13
@@ -707,7 +734,8 @@
                         "Clave_Inf": [
                             "ECURPRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Clave Unica De Registro De Población Del Representante Legal Emisor",
                     "maxLength": 18
@@ -719,7 +747,8 @@
                         "Clave_Inf": [
                             "EApellPatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Representante Legal Emisor",
                     "maxLength": 200
@@ -731,7 +760,8 @@
                         "Clave_Inf": [
                             "EApellMatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Representante Legal Emisor",
                     "maxLength": 200
@@ -743,7 +773,8 @@
                         "Clave_Inf": [
                             "ENombreRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Representante Legal Emisor",
                     "maxLength": 254
@@ -755,7 +786,8 @@
                         "Clave_Inf": [
                             "RRFC"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Receptor",
                     "maxLength": 13
@@ -767,7 +799,8 @@
                         "Clave_Inf": [
                             "RCURP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Clave Unica De Registro De Poblacion De Receptor",
                     "maxLength": 18
@@ -779,7 +812,8 @@
                         "Clave_Inf": [
                             "RApellPat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Receptor",
                     "maxLength": 200
@@ -791,7 +825,8 @@
                         "Clave_Inf": [
                             "RApellMat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Receptor",
                     "maxLength": 200
@@ -803,7 +838,8 @@
                         "Clave_Inf": [
                             "RNombre"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Receptor",
                     "maxLength": 254
@@ -815,7 +851,8 @@
                         "Clave_Inf": [
                             "RDenORazSoc"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social Receptor",
                     "maxLength": 254
@@ -827,7 +864,8 @@
                         "Clave_Inf": [
                             "RCorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electrónico Receptor",
                     "maxLength": 50
@@ -839,7 +877,8 @@
                         "Clave_Inf": [
                             "RNumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Receptor",
                     "maxLength": 50
@@ -851,7 +890,8 @@
                         "Clave_Inf": [
                             "RRFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organización Del Receptor",
                     "maxLength": 13
@@ -863,7 +903,8 @@
                         "Clave_Inf": [
                             "RDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social De La Organización Del Receptor",
                     "maxLength": 254
@@ -875,7 +916,8 @@
                         "Clave_Inf": [
                             "RCalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Receptor Documento Digital",
                     "maxLength": 200
@@ -887,7 +929,8 @@
                         "Clave_Inf": [
                             "RNumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Exterior Receptor",
                     "maxLength": 55
@@ -899,7 +942,8 @@
                         "Clave_Inf": [
                             "RNumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Interior Receptor",
                     "maxLength": 30
@@ -911,7 +955,8 @@
                         "Clave_Inf": [
                             "RColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Receptor",
                     "maxLength": 50
@@ -923,7 +968,8 @@
                         "Clave_Inf": [
                             "RLocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Receptor",
                     "maxLength": 50
@@ -935,7 +981,8 @@
                         "Clave_Inf": [
                             "Rref"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Receptor",
                     "maxLength": 1000
@@ -947,7 +994,8 @@
                         "Clave_Inf": [
                             "RMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegación O Municipio Receptor",
                     "maxLength": 5
@@ -959,7 +1007,8 @@
                         "Clave_Inf": [
                             "REntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Receptor",
                     "maxLength": 2
@@ -971,7 +1020,8 @@
                         "Clave_Inf": [
                             "RPais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Receptor",
                     "maxLength": 3
@@ -983,7 +1033,8 @@
                         "Clave_Inf": [
                             "RCP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Código Postal Receptor",
                     "maxLength": 5
@@ -995,7 +1046,8 @@
                         "Clave_Inf": [
                             "RRFCRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Receptor",
                     "maxLength": 13
@@ -1007,7 +1059,8 @@
                         "Clave_Inf": [
                             "RCURPRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Clave Unica De Registro De Poblacion Del  Representante Legal Receptor",
                     "maxLength": 18
@@ -1019,7 +1072,8 @@
                         "Clave_Inf": [
                             "RApellPatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Representante Legal Receptor",
                     "maxLength": 200
@@ -1031,7 +1085,8 @@
                         "Clave_Inf": [
                             "RApellMatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Representante Legal Receptor",
                     "maxLength": 200
@@ -1043,7 +1098,8 @@
                         "Clave_Inf": [
                             "RNombreRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Representante Legal Receptor",
                     "maxLength": 254
@@ -1055,7 +1111,8 @@
                         "Clave_Inf": [
                             "Version"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Version Del Estandar Declaracion Informativa",
                     "maxLength": 10
@@ -1069,7 +1126,8 @@
                         ],
                         "Clave negocio": [
                             "250904.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Fiscal",
                     "maximum": 9999
@@ -1083,7 +1141,8 @@
                         ],
                         "Clave negocio": [
                             "250905.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo De Periodicidad",
                     "maxLength": 2,
@@ -1104,7 +1163,8 @@
                         "Clave_Inf": [
                             "Periodo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Periodo De La Declaracion",
                     "maxLength": 3,
@@ -1167,7 +1227,8 @@
                         ],
                         "Clave negocio": [
                             "250903.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Declaracion",
                     "maxLength": 3,
@@ -1191,7 +1252,8 @@
                         ],
                         "Clave negocio": [
                             "250908.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Folio Anterior",
                     "maxLength": 16
@@ -1205,7 +1267,8 @@
                         ],
                         "Clave negocio": [
                             "250909.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Presentacion Anterior",
                     "format": "date"
@@ -1219,7 +1282,8 @@
                         ],
                         "Clave negocio": [
                             "250910.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Presentacion Anexo 1",
                     "maxLength": 1,
@@ -1237,7 +1301,8 @@
                         ],
                         "Clave negocio": [
                             "250911.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Presentacion Anexo 2",
                     "maxLength": 1,
@@ -1255,7 +1320,8 @@
                         ],
                         "Clave negocio": [
                             "250925.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total De Las Operaciones Proveedores Nacionales",
                     "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -1269,7 +1335,8 @@
                         ],
                         "Clave negocio": [
                             "250926.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Total De Las Operaciones  Proveedores Extranjeros",
                     "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -1283,7 +1350,8 @@
                         ],
                         "Clave negocio": [
                             "250927.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Total  Operaciones Proveedores Nacionales Y Extranjeros",
                     "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -1297,7 +1365,8 @@
                         ],
                         "Clave negocio": [
                             "250935.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Total De Los Cfdis Emitidos Por El Operador A Todos Los Integrantes Del Consorcio",
                     "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -1311,7 +1380,8 @@
                         ],
                         "Clave negocio": [
                             "250936.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Monto Total Del Iva De Los Cfdi Emitidos Por El Operador A Todos Los Integrantes Del Consorcio",
                     "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -1323,7 +1393,8 @@
                         "Clave_Inf": [
                             "Version"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Version Sello Digital",
                     "maxLength": 10
@@ -1335,7 +1406,8 @@
                         "Clave_Inf": [
                             "NombreRazonSocial"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Denominacion O Razon Social Sello Digital",
                     "maxLength": 254
@@ -1349,7 +1421,8 @@
                         ],
                         "Clave negocio": [
                             "250901.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Emisor Del Sello Digital",
                     "maxLength": 13
@@ -1363,7 +1436,8 @@
                         ],
                         "Clave negocio": [
                             "250904.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Digital En Sello Digital",
                     "maximum": 9999
@@ -1375,7 +1449,8 @@
                         "Clave_Inf": [
                             "Periodo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Periodo Documento Digital En Sello Digital",
                     "maxLength": 3,
@@ -1438,7 +1513,8 @@
                         ],
                         "Clave negocio": [
                             "250906.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Presentacion",
                     "format": "date-time"
@@ -1450,7 +1526,8 @@
                         "Clave_Inf": [
                             "MedioPres"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Medio Presentacion",
                     "maxLength": 2,
@@ -1469,7 +1546,8 @@
                         "Clave_Inf": [
                             "NombreArch"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre De Archivo",
                     "maxLength": 30
@@ -1481,7 +1559,8 @@
                         "Clave_Inf": [
                             "FechaHorSelloD"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Sello Digital",
                     "format": "date-time"
@@ -1493,7 +1572,8 @@
                         "Clave_Inf": [
                             "Estatus"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Estatus Documento Digital",
                     "maxLength": 3
@@ -1505,7 +1585,8 @@
                         "Clave_Inf": [
                             "Firma"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Firma Digital Del Emisor O Contribuyente Del Sello Digital",
                     "maxLength": 4000
@@ -1519,7 +1600,8 @@
                         ],
                         "Clave negocio": [
                             "30001.0"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Sello Digital",
                     "maxLength": 4000
@@ -1531,7 +1613,8 @@
                         "Clave_Inf": [
                             "NoCertificado"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Numero De Certificado Del Sat O Del Receptor",
                     "maxLength": 4000
@@ -1543,7 +1626,8 @@
                         "Clave_Inf": [
                             "C_IDC_ICDOENN1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Identificador Del Contribuyente",
                     "pattern": "^(-?)\\d{1,31}(\\.0{0,16})?$"
@@ -1555,7 +1639,8 @@
                         "Clave_Inf": [
                             "C_IDC_CTPLIEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Tipo De Persona",
                     "maxLength": 4
@@ -1567,7 +1652,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSCLIOA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Situacion Del Contribuyente",
                     "maxLength": 3
@@ -1579,7 +1665,8 @@
                         "Clave_Inf": [
                             "D_IDC_SEXO0001"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Sexo",
                     "maxLength": 1
@@ -1591,7 +1678,8 @@
                         "Clave_Inf": [
                             "C_IDC_CARRLDE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Regional De Recaudacion",
                     "maxLength": 5
@@ -1603,7 +1691,8 @@
                         "Clave_Inf": [
                             "C_IDC_CALRLDO1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Local De Recaudacion",
                     "maxLength": 10
@@ -1615,7 +1704,8 @@
                         "Clave_Inf": [
                             "C_IDC_CEFLNEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Entidad Federativa",
                     "maxLength": 6
@@ -1627,7 +1717,8 @@
                         "Clave_Inf": [
                             "C_IDC_EDCDEO1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Edad Del Contribuyente ",
                     "maximum": 999
@@ -1639,7 +1730,8 @@
                         "Clave_Inf": [
                             "C_IDC_CAELCCA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Actividad Economica",
                     "maxLength": 6
@@ -1651,7 +1743,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSLCAIV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Scian",
                     "maxLength": 6
@@ -1663,7 +1756,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSELECA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sector Economico",
                     "maxLength": 4
@@ -1675,7 +1769,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSSELUE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sub Sector Economico",
                     "maxLength": 4
@@ -1687,7 +1782,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRELACA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Rama Economica",
                     "maxLength": 4
@@ -1699,7 +1795,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSRELUA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Sub Rama Economica",
                     "maxLength": 4
@@ -1711,7 +1808,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRLEAGV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Regimen",
                     "maxLength": 18
@@ -1723,7 +1821,8 @@
                         "Clave_Inf": [
                             "D_DEC_ARACFMT1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Actualizacion Del Rfc Ampliado",
                     "maxLength": 1
@@ -1735,7 +1834,8 @@
                         "Clave_Inf": [
                             "NumCont"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Nuemero De Contrato",
                     "maxLength": 30
@@ -1747,7 +1847,8 @@
                         "Clave_Inf": [
                             "TipoComp"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo De Complementaria",
                     "maxLength": 3,
@@ -1877,7 +1978,8 @@
                             ],
                             "Clave negocio": [
                                 "250912.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Consecutivo De Los Operaciones Realizadas Por Cuenta De Los Integrantes Del Consorcio Petrolero",
                         "maximum": 99999
@@ -1891,7 +1993,8 @@
                             ],
                             "Clave negocio": [
                                 "250913.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Tipo Proveedor",
                         "maxLength": 2,
@@ -1910,7 +2013,8 @@
                             ],
                             "Clave negocio": [
                                 "250914.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Registro Federal De Contribuyentes Proveedor Nacional",
                         "maxLength": 13
@@ -1924,7 +2028,8 @@
                             ],
                             "Clave negocio": [
                                 "250915.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Importe Total Operaciones Proveedor Nacional",
                         "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -1938,7 +2043,8 @@
                             ],
                             "Clave negocio": [
                                 "250916.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Nombre Denominacion O Razon Social Del Proveedor Extranjero",
                         "maxLength": 254
@@ -1952,7 +2058,8 @@
                             ],
                             "Clave negocio": [
                                 "250917.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Identificador Fiscal Del Proveedor Extranjero",
                         "maxLength": 60
@@ -1966,7 +2073,8 @@
                             ],
                             "Clave negocio": [
                                 "250918.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Pais De Residencia Del Proveedor Extranjero",
                         "maxLength": 3,
@@ -2235,7 +2343,8 @@
                             ],
                             "Clave negocio": [
                                 "250919.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": " Importe Sin Impuestos Emitido Por El Proveedor Extranjero",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2249,7 +2358,8 @@
                             ],
                             "Clave negocio": [
                                 "250920.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Retenciones Emitido Por El Proveedor Extranjero",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2263,7 +2373,8 @@
                             ],
                             "Clave negocio": [
                                 "250921.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Impuestos Emitido Por El Proveedor Extranjero",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2277,7 +2388,8 @@
                             ],
                             "Clave negocio": [
                                 "250922.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Importe Total Emitido Por El Proveedor Extranjero",
                         "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2291,7 +2403,8 @@
                             ],
                             "Clave negocio": [
                                 "250923.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero De Pedimento De Importacion Relacionado El Comprobante",
                         "maxLength": 21
@@ -2305,7 +2418,8 @@
                             ],
                             "Clave negocio": [
                                 "250924.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total  De Operaciones Realizadas Con El Proveedor Extranjero",
                         "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2317,7 +2431,8 @@
                             "Clave_Inf": [
                                 "NumCont"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Nuemero De Contrato",
                         "maxLength": 30
@@ -2557,7 +2672,8 @@
                             ],
                             "Clave negocio": [
                                 "250928.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Consecutivo De Los Operaciones Realizadas Por Cada Integrante Del Consorcio Petrolero",
                         "maximum": 99999
@@ -2571,7 +2687,8 @@
                             ],
                             "Clave negocio": [
                                 "250929.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Registro Federal De Contribuyentes Del Integrante Del Consorcio",
                         "maxLength": 13
@@ -2585,7 +2702,8 @@
                             ],
                             "Clave negocio": [
                                 "250931.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Denominacion O Razon Social Del Integrante Del Consorcio",
                         "maxLength": 254
@@ -2599,7 +2717,8 @@
                             ],
                             "Clave negocio": [
                                 "250932.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Proporcion Integrante Sobre El Total De Las Operaciones Realizadas Por El Operador",
                         "pattern": "^(-?)\\d{0,5}\\.?\\d{0,4}$"
@@ -2613,7 +2732,8 @@
                             ],
                             "Clave negocio": [
                                 "250933.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Importe Total De Los Cfdis Emitidos Por El Operador  Al Integrante Del Consorcio",
                         "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2627,7 +2747,8 @@
                             ],
                             "Clave negocio": [
                                 "250934.0"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total Del Iva De Los Cfdis Emitidos Por El Operador Al Integrante Del Consorcio",
                         "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2639,7 +2760,8 @@
                             "Clave_Inf": [
                                 "NumCont"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Nuemero De Contrato",
                         "maxLength": 30

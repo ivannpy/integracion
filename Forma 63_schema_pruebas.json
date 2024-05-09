@@ -334,7 +334,8 @@
                         ],
                         "Clave negocio": [
                             "20002"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Numero De Operacion",
                     "maxLength": 16
@@ -346,7 +347,8 @@
                         "Clave_Inf": [
                             "C_IDC_ICDOENN1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Identificador Del Contribuyente",
                     "pattern": "^(-?)\\d{1,31}(\\.0{0,16})?$"
@@ -358,7 +360,8 @@
                         "Clave_Inf": [
                             "C_IDC_CTPLIEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Tipo De Persona",
                     "maxLength": 4
@@ -370,7 +373,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSCLIOA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Situacion Del Contribuyente",
                     "maxLength": 3
@@ -382,7 +386,8 @@
                         "Clave_Inf": [
                             "D_IDC_SEXO0001"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Sexo",
                     "maxLength": 1
@@ -394,7 +399,8 @@
                         "Clave_Inf": [
                             "C_IDC_CARRLDE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Regional De Recaudacion",
                     "maxLength": 5
@@ -406,7 +412,8 @@
                         "Clave_Inf": [
                             "C_IDC_CALRLDO1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Local De Recaudacion",
                     "maxLength": 10
@@ -418,7 +425,8 @@
                         "Clave_Inf": [
                             "C_IDC_CEFLNEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Entidad Federativa",
                     "maxLength": 6
@@ -430,7 +438,8 @@
                         "Clave_Inf": [
                             "C_IDC_EDCDEO1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Edad Del Contribuyente ",
                     "maximum": 999
@@ -442,7 +451,8 @@
                         "Clave_Inf": [
                             "C_IDC_CAELCCA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Actividad Economica",
                     "maxLength": 6
@@ -454,7 +464,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSLCAIV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Scian",
                     "maxLength": 6
@@ -466,7 +477,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSELECA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sector Economico",
                     "maxLength": 4
@@ -478,7 +490,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSSELUE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sub Sector Economico",
                     "maxLength": 4
@@ -490,7 +503,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRELACA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Rama Economica",
                     "maxLength": 4
@@ -502,7 +516,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSRELUA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Sub Rama Economica",
                     "maxLength": 4
@@ -514,7 +529,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRLEAGV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Regimen",
                     "maxLength": 18
@@ -526,7 +542,8 @@
                         "Clave_Inf": [
                             "TipoDoctoDigital"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Documento Digital",
                     "maxLength": 4,
@@ -547,7 +564,8 @@
                         "Clave_Inf": [
                             "Cert"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Certificado De Sello Digital",
                     "maxLength": 4000
@@ -561,7 +579,8 @@
                         ],
                         "Clave negocio": [
                             "30003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Numero De Serie Del Certificado Digital",
                     "maxLength": 20
@@ -573,7 +592,8 @@
                         "Clave_Inf": [
                             "Firma"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Firma Digital Del Emisor O Contribuyente Del Documento Digital",
                     "maxLength": 4000
@@ -585,7 +605,8 @@
                         "Clave_Inf": [
                             "Version"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Version Del Estandar",
                     "maxLength": 10
@@ -599,7 +620,8 @@
                         ],
                         "Clave negocio": [
                             "213001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Emisor Del Documento Digital",
                     "maxLength": 13
@@ -613,7 +635,8 @@
                         ],
                         "Clave negocio": [
                             "213002"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Emisor",
                     "maxLength": 18
@@ -627,7 +650,8 @@
                         ],
                         "Clave negocio": [
                             "213004"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Emisor",
                     "maxLength": 200
@@ -641,7 +665,8 @@
                         ],
                         "Clave negocio": [
                             "213005"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Emisor",
                     "maxLength": 200
@@ -655,7 +680,8 @@
                         ],
                         "Clave negocio": [
                             "213006"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Emisor",
                     "maxLength": 254
@@ -669,7 +695,8 @@
                         ],
                         "Clave negocio": [
                             "213007"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominacion O Razon Social Emisor",
                     "maxLength": 254
@@ -681,7 +708,8 @@
                         "Clave_Inf": [
                             "ECorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electronico Emisor",
                     "maxLength": 50
@@ -693,7 +721,8 @@
                         "Clave_Inf": [
                             "ENumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Emisor",
                     "maxLength": 50
@@ -705,7 +734,8 @@
                         "Clave_Inf": [
                             "ERFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organizacion Del Emisor",
                     "maxLength": 12
@@ -717,7 +747,8 @@
                         "Clave_Inf": [
                             "EDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominacion O Razon Social De La Organizacion Del Emisor",
                     "maxLength": 254
@@ -729,7 +760,8 @@
                         "Clave_Inf": [
                             "ECalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Emisor Documento Digital",
                     "maxLength": 200
@@ -741,7 +773,8 @@
                         "Clave_Inf": [
                             "ENumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Numero Exterior Emisor",
                     "maxLength": 55
@@ -753,7 +786,8 @@
                         "Clave_Inf": [
                             "ENumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Numero Interior Emisor",
                     "maxLength": 30
@@ -765,7 +799,8 @@
                         "Clave_Inf": [
                             "EColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Emisor",
                     "maxLength": 50
@@ -777,7 +812,8 @@
                         "Clave_Inf": [
                             "ELocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Emisor",
                     "maxLength": 50
@@ -789,7 +825,8 @@
                         "Clave_Inf": [
                             "ERef"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Emisor",
                     "maxLength": 1000
@@ -801,7 +838,8 @@
                         "Clave_Inf": [
                             "EMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegacion O Municipio Emisor",
                     "maxLength": 5
@@ -813,7 +851,8 @@
                         "Clave_Inf": [
                             "EEntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Emisor",
                     "maxLength": 2
@@ -825,7 +864,8 @@
                         "Clave_Inf": [
                             "Epais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Emisor",
                     "maxLength": 3
@@ -837,7 +877,8 @@
                         "Clave_Inf": [
                             "ECP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Codigo Postal Emisor",
                     "maxLength": 5
@@ -851,7 +892,8 @@
                         ],
                         "Clave negocio": [
                             "213008"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Emisor",
                     "maxLength": 13
@@ -865,7 +907,8 @@
                         ],
                         "Clave negocio": [
                             "213009"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Representante Legal Emisor",
                     "maxLength": 18
@@ -879,7 +922,8 @@
                         ],
                         "Clave negocio": [
                             "213010"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Representante Legal Emisor",
                     "maxLength": 200
@@ -893,7 +937,8 @@
                         ],
                         "Clave negocio": [
                             "213011"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Representante Legal Emisor",
                     "maxLength": 200
@@ -907,7 +952,8 @@
                         ],
                         "Clave negocio": [
                             "213012"
-                        ]
+                        ],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Representante Legal Emisor",
                     "maxLength": 254
@@ -919,7 +965,8 @@
                         "Clave_Inf": [
                             "RRFC"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Receptor",
                     "maxLength": 13
@@ -931,7 +978,8 @@
                         "Clave_Inf": [
                             "RCURP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Receptor",
                     "maxLength": 18
@@ -943,7 +991,8 @@
                         "Clave_Inf": [
                             "RApellPat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Receptor",
                     "maxLength": 200
@@ -955,7 +1004,8 @@
                         "Clave_Inf": [
                             "RApellMat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Receptor",
                     "maxLength": 200
@@ -967,7 +1017,8 @@
                         "Clave_Inf": [
                             "RNombre"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Receptor",
                     "maxLength": 254
@@ -979,7 +1030,8 @@
                         "Clave_Inf": [
                             "RDenORazSoc"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominacion O Razon Social Receptor",
                     "maxLength": 254
@@ -991,7 +1043,8 @@
                         "Clave_Inf": [
                             "RCorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electronico Receptor",
                     "maxLength": 50
@@ -1003,7 +1056,8 @@
                         "Clave_Inf": [
                             "RNumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Receptor",
                     "maxLength": 50
@@ -1015,7 +1069,8 @@
                         "Clave_Inf": [
                             "RRFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organizacion Del Receptor",
                     "maxLength": 12
@@ -1027,7 +1082,8 @@
                         "Clave_Inf": [
                             "RDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominacion O Razon Social De La Organizacion Del Receptor",
                     "maxLength": 254
@@ -1039,7 +1095,8 @@
                         "Clave_Inf": [
                             "Rcalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Receptor Documento Digital",
                     "maxLength": 200
@@ -1051,7 +1108,8 @@
                         "Clave_Inf": [
                             "RNumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Numero Exterior Receptor",
                     "maxLength": 55
@@ -1063,7 +1121,8 @@
                         "Clave_Inf": [
                             "RNumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Numero Interior Receptor",
                     "maxLength": 30
@@ -1075,7 +1134,8 @@
                         "Clave_Inf": [
                             "RColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Receptor",
                     "maxLength": 50
@@ -1087,7 +1147,8 @@
                         "Clave_Inf": [
                             "RLocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Receptor",
                     "maxLength": 50
@@ -1099,7 +1160,8 @@
                         "Clave_Inf": [
                             "RRef"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Receptor",
                     "maxLength": 1000
@@ -1111,7 +1173,8 @@
                         "Clave_Inf": [
                             "RMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegacion O Municipio Receptor",
                     "maxLength": 5
@@ -1123,7 +1186,8 @@
                         "Clave_Inf": [
                             "REntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Receptor",
                     "maxLength": 2
@@ -1135,7 +1199,8 @@
                         "Clave_Inf": [
                             "RPais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Receptor",
                     "maxLength": 3
@@ -1147,7 +1212,8 @@
                         "Clave_Inf": [
                             "RCP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Codigo Postal Receptor",
                     "maxLength": 5
@@ -1159,7 +1225,8 @@
                         "Clave_Inf": [
                             "RRFCRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Receptor",
                     "maxLength": 13
@@ -1171,7 +1238,8 @@
                         "Clave_Inf": [
                             "RCURPRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Representante Legal Receptor",
                     "maxLength": 18
@@ -1183,7 +1251,8 @@
                         "Clave_Inf": [
                             "RApellPatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Representante Legal Receptor",
                     "maxLength": 200
@@ -1195,7 +1264,8 @@
                         "Clave_Inf": [
                             "RApellMatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Representante Legal Receptor",
                     "maxLength": 200
@@ -1207,7 +1277,8 @@
                         "Clave_Inf": [
                             "RNombreRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Representante Legal Receptor",
                     "maxLength": 254
@@ -1219,7 +1290,8 @@
                         "Clave_Inf": [
                             "Version"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Version Del Estandar Bajo El Que Se Encuentra Expresada La Declaracion Informativa De Los Regimenes Fiscales Preferentes",
                     "maxLength": 10
@@ -1233,7 +1305,8 @@
                         ],
                         "Clave negocio": [
                             "213003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Fiscal",
                     "maximum": 9999
@@ -1247,7 +1320,8 @@
                         ],
                         "Clave negocio": [
                             "213013"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "¿La Declaración La Presentas Con Datos O Sin Datos?",
                     "maxLength": 1,
@@ -1266,7 +1340,8 @@
                         ],
                         "Clave negocio": [
                             "213014"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo De Presentación",
                     "maxLength": 3,
@@ -1288,7 +1363,8 @@
                         "Clave_Inf": [
                             "TipoComp"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo de Complementaria",
                     "maxLength": 3,
@@ -1308,7 +1384,8 @@
                         ],
                         "Clave negocio": [
                             "213015"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Operación O Folio Anterior",
                     "maxLength": 16
@@ -1322,7 +1399,8 @@
                         ],
                         "Clave negocio": [
                             "213016"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha De Presentación Anterior",
                     "format": "date"
@@ -1336,7 +1414,8 @@
                         ],
                         "Clave negocio": [
                             "30001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Version Sello Digital",
                     "maxLength": 10
@@ -1350,7 +1429,8 @@
                         ],
                         "Clave negocio": [
                             "213007"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Denominacion O Razon Social Sello Digital",
                     "maxLength": 254
@@ -1364,7 +1444,8 @@
                         ],
                         "Clave negocio": [
                             "213001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Emisor Del Sello Digital",
                     "maxLength": 13
@@ -1378,7 +1459,8 @@
                         ],
                         "Clave negocio": [
                             "213003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Digital En Sello Digital",
                     "maximum": 9999
@@ -1390,7 +1472,8 @@
                         "Clave_Inf": [
                             "Periodo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Periodo Documento Digital En Sello Digital",
                     "maxLength": 3,
@@ -1454,7 +1537,8 @@
                         "Clave negocio": [
                             "40002",
                             "40003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Presentacion",
                     "format": "date-time"
@@ -1468,7 +1552,8 @@
                         ],
                         "Clave negocio": [
                             "40005"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Medio Presentacion",
                     "maxLength": 2,
@@ -1487,7 +1572,8 @@
                         "Clave_Inf": [
                             "NombreArch"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre De Archivo",
                     "maxLength": 30
@@ -1499,7 +1585,8 @@
                         "Clave_Inf": [
                             "FechaHorSelloD"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Sello Digital",
                     "format": "date-time"
@@ -1511,7 +1598,8 @@
                         "Clave_Inf": [
                             "Estatus"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Estatus Documento Digital",
                     "maxLength": 3,
@@ -1530,7 +1618,8 @@
                         "Clave_Inf": [
                             "Firma"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Firma Digital Del Emisor O Contribuyente Del Sello Digital",
                     "maxLength": 4000
@@ -1544,7 +1633,8 @@
                         ],
                         "Clave negocio": [
                             "30001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Sello Digital",
                     "maxLength": 4000
@@ -1556,7 +1646,8 @@
                         "Clave_Inf": [
                             "NoCertificado"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Numero De Certificado",
                     "maxLength": 4000
@@ -2012,7 +2103,8 @@
                             ],
                             "Clave negocio": [
                                 "213063"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Número De Registro",
                         "maximum": 99999
@@ -2026,7 +2118,8 @@
                             ],
                             "Clave negocio": [
                                 "213017"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si La Suma De Los Ingresos Por Los Que Tiene La Obligación De Presentar La Declaración A Que Se Refiere El Artículo 178 De La Lisr Es Mayor A $50,000,000",
                         "maxLength": 2,
@@ -2044,7 +2137,8 @@
                             ],
                             "Clave negocio": [
                                 "213018"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Presenta La Declaración En Términos Del Artículo 178, Primer Párrafo De La Ley Del Isr Vigente",
                         "maxLength": 2,
@@ -2062,7 +2156,8 @@
                             ],
                             "Clave negocio": [
                                 "213019"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Presenta La Declaración En Términos Del Artículo 178, Segundo Párrafo De La Ley Del Isr Vigente",
                         "maxLength": 2,
@@ -2080,7 +2175,8 @@
                             ],
                             "Clave negocio": [
                                 "213020"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Nombre, Denominación O Razón Social",
                         "maxLength": 254
@@ -2094,7 +2190,8 @@
                             ],
                             "Clave negocio": [
                                 "213021"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Domicilio Del Residente En El Extranjero",
                         "maxLength": 254
@@ -2108,7 +2205,8 @@
                             ],
                             "Clave negocio": [
                                 "213022"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero De Identificacion Fiscal",
                         "maxLength": 43
@@ -2122,7 +2220,8 @@
                             ],
                             "Clave negocio": [
                                 "213023"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Clave Del Pais Donde Se Genera El Ingreso Que Se Declara",
                         "maxLength": 3,
@@ -2391,7 +2490,8 @@
                             ],
                             "Clave negocio": [
                                 "213024"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Tributa Como Residente En El Pais Seleccionado",
                         "maxLength": 3,
@@ -2409,7 +2509,8 @@
                             ],
                             "Clave negocio": [
                                 "213025"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Se Trata De Una Entidad Extranjera O Figura Jurídica Extranjera Considerada Transparente Para Efectos Fiscales",
                         "maxLength": 2,
@@ -2427,7 +2528,8 @@
                             ],
                             "Clave negocio": [
                                 "213026"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Tipo De Ingreso",
                         "maxLength": 1,
@@ -2450,7 +2552,8 @@
                             ],
                             "Clave negocio": [
                                 "213027"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Forma En Que Se Obtuvo El Ingreso",
                         "maxLength": 2,
@@ -2468,7 +2571,8 @@
                             ],
                             "Clave negocio": [
                                 "213028"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Observaciones",
                         "maxLength": 350
@@ -2482,7 +2586,8 @@
                             ],
                             "Clave negocio": [
                                 "213033"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Ingresos Contables Generados En El Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2496,7 +2601,8 @@
                             ],
                             "Clave negocio": [
                                 "213034"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Utilidades Contables Generadas En El Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2510,7 +2616,8 @@
                             ],
                             "Clave negocio": [
                                 "213060"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Perdidas Contables Generadas En El Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2524,7 +2631,8 @@
                             ],
                             "Clave negocio": [
                                 "213035"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Utilidades Contables Generadas En El Ejercicio, En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2538,7 +2646,8 @@
                             ],
                             "Clave negocio": [
                                 "213061"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Pérdidas Contables Generadas En El Ejercicio, En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2552,7 +2661,8 @@
                             ],
                             "Clave negocio": [
                                 "213036"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Ingresos Obtenidos En El Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2566,7 +2676,8 @@
                             ],
                             "Clave negocio": [
                                 "213037"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Ingresos Contables Del Ejercicio No Considerados Para Efectos Del Cálculo Del Isr (Artículo 177 De La Lisr) Del Ejercicio Que Se Declara, En La Proporción De La Participación Del Contribuyente, Directa O Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2580,7 +2691,8 @@
                             ],
                             "Clave negocio": [
                                 "2130381"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Primera Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2603,7 +2715,8 @@
                             "Clave_Inf": [
                                 "D_DEC_PECQNCI1"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Primera Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2617,7 +2730,8 @@
                             ],
                             "Clave negocio": [
                                 "2130382"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Segunda Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2640,7 +2754,8 @@
                             "Clave_Inf": [
                                 "D_DEC_SECQNCI1"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Segunda Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2654,7 +2769,8 @@
                             ],
                             "Clave negocio": [
                                 "2130383"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Tercera Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2677,7 +2793,8 @@
                             "Clave_Inf": [
                                 "D_DEC_TECQNCI1"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Tercera Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2691,7 +2808,8 @@
                             ],
                             "Clave negocio": [
                                 "2130384"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Cuarta Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2714,7 +2832,8 @@
                             "Clave_Inf": [
                                 "D_DEC_CECQNCI1"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Cuarta Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2728,7 +2847,8 @@
                             ],
                             "Clave negocio": [
                                 "2130385"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Quinta Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2751,7 +2871,8 @@
                             "Clave_Inf": [
                                 "D_DEC_QECQNCI1"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Quinta Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2765,7 +2886,8 @@
                             ],
                             "Clave negocio": [
                                 "2130386"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Sexta Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2788,7 +2910,8 @@
                             "Clave_Inf": [
                                 "D_DEC_SECQNCI2"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Sexta Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2802,7 +2925,8 @@
                             ],
                             "Clave negocio": [
                                 "2130387"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Septima Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2825,7 +2949,8 @@
                             "Clave_Inf": [
                                 "D_DEC_SECQNCI3"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Septima Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2839,7 +2964,8 @@
                             ],
                             "Clave negocio": [
                                 "2130388"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Octava Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2862,7 +2988,8 @@
                             "Clave_Inf": [
                                 "D_DEC_OECQNCI1"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Octava Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2876,7 +3003,8 @@
                             ],
                             "Clave negocio": [
                                 "2130389"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Novena Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2901,7 +3029,8 @@
                             ],
                             "Clave negocio": [
                                 "213039"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Novena Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2915,7 +3044,8 @@
                             ],
                             "Clave negocio": [
                                 "2130381"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Decima Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
@@ -2938,7 +3068,8 @@
                             "Clave_Inf": [
                                 "D_DEC_DECQNCI1"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Decima Especificar Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara",
                         "maxLength": 120
@@ -2952,7 +3083,8 @@
                             ],
                             "Clave negocio": [
                                 "213040"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Deducciones Contables Del Ejercicio No Consideradas Para Efectos Del Cálculo Del Isr (Artículo 177 De La Lisr) En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2966,7 +3098,8 @@
                             ],
                             "Clave negocio": [
                                 "213041"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Ingresos No Contables Del Ejercicio Pero Sí Considerados Para Efectos Del Cálculo Del Isr (Artículo 177 De La Lisr) Del Ejercicio Que Se Declara, En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2980,7 +3113,8 @@
                             ],
                             "Clave negocio": [
                                 "213042"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Deducciones No Contables Del Ejercicio Pero Sí Consideradas Para Efectos Del Cálculo Del Isr (Artículo 177 De La Lisr) Del Ejercicio Que Se Declara, En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -2994,7 +3128,8 @@
                             ],
                             "Clave negocio": [
                                 "213043"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Las Causas Por Las Que Para Efectos Del Cálculo Del Isr (Artículo 177 De La Lisr) Del Ejercicio Que Se Declara, Consideró Deducciones No Contables",
                         "maxLength": 1,
@@ -3014,7 +3149,8 @@
                             ],
                             "Clave negocio": [
                                 "213044"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Especificar Las Causas Por Las Que Para Efectos Del Cálculo Del Isr (Artículo 177 De La Lisr) Del Ejercicio Que Se Declara, Consideró Deducciones No Contables",
                         "maxLength": 120
@@ -3028,7 +3164,8 @@
                             ],
                             "Clave negocio": [
                                 "213045"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De La Utilidad Fiscal Del Ejercicio Que Declara Para Efectos Del Artículo 177  De La Lisr , En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3042,7 +3179,8 @@
                             ],
                             "Clave negocio": [
                                 "213062"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De La Pérdida Fiscal Del Ejercicio Que Declara Para Efectos Del Artículo 177 De La Lisr, En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3056,7 +3194,8 @@
                             ],
                             "Clave negocio": [
                                 "213046"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Pérdidas Fiscales De Ejercicios Anteriores Disminuidas En El Ejercicio Que Se Declara, En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3070,7 +3209,8 @@
                             ],
                             "Clave negocio": [
                                 "213047"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total Del Resultado Fiscal Del Ejercicio Que Se Declara Para Efectos Del Artículo 177 De La Lisr, En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3084,7 +3224,8 @@
                             ],
                             "Clave negocio": [
                                 "213048"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Impuesto Sobre La Renta Determinado Conforme Al Artículo 177, Octavo Párrafo De La Lisr",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3098,7 +3239,8 @@
                             ],
                             "Clave negocio": [
                                 "213049"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Impuesto Pagado En El Extranjero Acreditado En Términos Del Artículo 177, Décimo Párrafo De La Lisr",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3112,7 +3254,8 @@
                             ],
                             "Clave negocio": [
                                 "213050"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Impuesto Acreditado En Términos Del Artículo 177, Décimo Primer Párrafo De La Lisr",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3126,7 +3269,8 @@
                             ],
                             "Clave negocio": [
                                 "213051"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Impuesto Sobre La Renta A Pagar En Términos Del Capítulo I Título Vi, De La Lisr ",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3140,7 +3284,8 @@
                             ],
                             "Clave negocio": [
                                 "213052"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Total De Ingresos Dividendos O Utilidades Distribuidas En El Ejercicio",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3154,7 +3299,8 @@
                             ],
                             "Clave negocio": [
                                 "213053"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Importe Al Cierre Del Ejercicio De La Cuenta A Que Se Refiere El Artículo 177, Décimo Segundo Párrafo De La Lisr Vigente En La Proporción De La Participación Del Contribuyente, Directa E Indirecta O De La Cuenta A Que Se Refiere El Artículo 4-B, Séptimo Párrafo De La Lisr",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3168,7 +3314,8 @@
                             ],
                             "Clave negocio": [
                                 "213054"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Saldo De Pérdidas Fiscales Pendientes De Amortizar En La Proporción De La Participación Del Contribuyente, Directa E Indirecta",
                         "pattern": "^(-?)\\d{1,14}(\\.0{0,16})?$"
@@ -3182,7 +3329,8 @@
                             ],
                             "Clave negocio": [
                                 "213055"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si La Contabilidad Esta A Disposición De La Autoridad",
                         "maxLength": 1,
@@ -3201,7 +3349,8 @@
                             ],
                             "Clave negocio": [
                                 "213056"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Tasa Efectiva Del Impuesto Sobre La Renta Pagada En El Extranjero",
                         "maximum": 999
@@ -3215,7 +3364,8 @@
                             ],
                             "Clave negocio": [
                                 "213057"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Los Motivos Por Los Cuales Se Determinó La Tasa Efectiva Antes Señalada",
                         "maxLength": 2,
@@ -3247,7 +3397,8 @@
                             ],
                             "Clave negocio": [
                                 "213058"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Especifica Los Motivos Por Los Cuales Se Determino La Tasa Efectiva Antes Señalada",
                         "maxLength": 120
@@ -3259,7 +3410,8 @@
                             "Clave_Inf": [
                                 "DecIngTerTraLeyISR"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Presenta La Declaración Porque Obtuvo Ingresos De Los Territorios Indicados En Las Disposiciones Transitorias De La Ley Del Isr Vigente",
                         "maxLength": 2,
@@ -3276,7 +3428,8 @@
                             "Clave_Inf": [
                                 "DecOpeArt4BLeyISR"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Presenta La Declaración Porque Realizó Las Operaciones A Que Se Refiere El Artículo 4-B De La Ley Del Isr Vigente",
                         "maxLength": 2,
@@ -3293,7 +3446,8 @@
                             "Clave_Inf": [
                                 "EntExtConParTra"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Se Trata De Una Entidad Extranjera Considerada Parcialmente Transparente",
                         "maxLength": 2,
@@ -3310,7 +3464,8 @@
                             "Clave_Inf": [
                                 "TipConEfeEjeEntExt"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Indique El Tipo De Control Efectivo Que Ejerce Sobre La Entidad Extranjera",
                         "maximum": 9
@@ -3322,7 +3477,8 @@
                             "Clave_Inf": [
                                 "TipParDirIndEntExtFigJurExt"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Indique El Tipo De Participación Directa O Indirecta Que Tiene Sobre La Entidad Extranjera O Figura Jurídica Extranjera",
                         "maximum": 9
@@ -3334,7 +3490,8 @@
                             "Clave_Inf": [
                                 "ProParEntExtJurExtArt177LISR"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Cuál Es La Proporción De La Participación Directa O Indirecta Que Tiene Sobre La Entidad Extranjera O Figura Jurídica Extranjera, En Caso De Que Se Hubiere Ubicado En Varios Supuestos Del Párrafo Cuarto Del Artículo 177 De La Lisr, Deberá Indicar La Más Alta",
                         "maxLength": 3
@@ -3346,7 +3503,8 @@
                             "Clave_Inf": [
                                 "ImpPagMexAcrTerArt177DecLisr"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Impuesto Pagado En México Acreditado En Términos Del Artículo 177, Décimo Párrafo De La Lisr",
                         "maximum": 99999999999999
@@ -3358,7 +3516,8 @@
                             "Clave_Inf": [
                                 "ImpAcrTerArt4BSexLisr"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Impuesto Acreditado En Términos Del Artículo 4-B, Sexto Párrafo De La Lisr",
                         "maximum": 99999999999999
@@ -4197,7 +4356,8 @@
                             "Clave_Inf": [
                                 "IGNCons"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Consecutivo Del Registro Declarado",
                         "maximum": 99999
@@ -4211,7 +4371,8 @@
                             ],
                             "Clave negocio": [
                                 "213059"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Numero Consecutivo De Las Entidades Interpuestas",
                         "maximum": 99999
@@ -4225,7 +4386,8 @@
                             ],
                             "Clave negocio": [
                                 "213029"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Nombre Denominacion O Razon Social De La Entidad Interpuesta",
                         "maxLength": 254
@@ -4239,7 +4401,8 @@
                             ],
                             "Clave negocio": [
                                 "213030"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Domicilio Del Residente En El Extranjero",
                         "maxLength": 254
@@ -4253,7 +4416,8 @@
                             ],
                             "Clave negocio": [
                                 "213031"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Identificador Fiscal Del Residente En El  Extranjero",
                         "maxLength": 43
@@ -4267,7 +4431,8 @@
                             ],
                             "Clave negocio": [
                                 "213032"
-                            ]
+                            ],
+                            "Origen": "JSON"
                         },
                         "description": "Pais De Residencia",
                         "maxLength": 3,
@@ -4534,7 +4699,8 @@
                             "Clave_Inf": [
                                 "EntExtConParTra"
                             ],
-                            "Clave negocio": []
+                            "Clave negocio": [],
+                            "Origen": "JSON"
                         },
                         "description": "Indique Si Se Trata De Una Entidad Extranjera O Figura Jurídica Extranjera Considerada Transparente Para Efectos Fiscales",
                         "maxLength": 2,

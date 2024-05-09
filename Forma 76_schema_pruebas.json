@@ -354,7 +354,8 @@
                         ],
                         "Clave negocio": [
                             "20002"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Operación",
                     "maxLength": 16
@@ -372,7 +373,8 @@
                             "214011",
                             "214016",
                             "214021"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Presentación",
                     "maxLength": 1,
@@ -388,7 +390,8 @@
                         "Clave_Inf": [
                             "TipoPerid"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo De Periodicidad",
                     "maxLength": 2,
@@ -417,7 +420,8 @@
                             "214012",
                             "214017",
                             "214022"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Declaración",
                     "maxLength": 3,
@@ -439,7 +443,8 @@
                         "Clave_Inf": [
                             "TipoComp"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo de Complementaria",
                     "maxLength": 3,
@@ -463,7 +468,8 @@
                             "214015",
                             "214020",
                             "214025"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Periodo De La Declaración",
                     "maxLength": 3,
@@ -573,7 +579,8 @@
                             "214013",
                             "214018",
                             "214023"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Folio Anterior",
                     "maxLength": 16
@@ -591,7 +598,8 @@
                             "214014",
                             "214019",
                             "214024"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Presentación Anterior",
                     "format": "date"
@@ -605,7 +613,8 @@
                         ],
                         "Clave negocio": [
                             "206010"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Fiscal",
                     "maximum": 9999
@@ -619,7 +628,8 @@
                         ],
                         "Clave negocio": [
                             "40006"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Versión Del Estandar",
                     "maxLength": 10
@@ -631,7 +641,8 @@
                         "Clave_Inf": [
                             "Observaciones"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Observaciones",
                     "maxLength": 1500
@@ -643,7 +654,8 @@
                         "Clave_Inf": [
                             "ERFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organización Del Emisor",
                     "maxLength": 13
@@ -655,7 +667,8 @@
                         "Clave_Inf": [
                             "EDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social De La Organización Del Emisor",
                     "maxLength": 254
@@ -667,7 +680,8 @@
                         "Clave_Inf": [
                             "ECalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Emisor Documento Digital",
                     "maxLength": 200
@@ -679,7 +693,8 @@
                         "Clave_Inf": [
                             "ENumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Exterior Emisor",
                     "maxLength": 55
@@ -691,7 +706,8 @@
                         "Clave_Inf": [
                             "ENumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Interior Emisor",
                     "maxLength": 30
@@ -703,7 +719,8 @@
                         "Clave_Inf": [
                             "EColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Emisor",
                     "maxLength": 50
@@ -715,7 +732,8 @@
                         "Clave_Inf": [
                             "ELocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Emisor",
                     "maxLength": 50
@@ -727,7 +745,8 @@
                         "Clave_Inf": [
                             "ERef"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Emisor",
                     "maxLength": 1000
@@ -739,7 +758,8 @@
                         "Clave_Inf": [
                             "EMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegación O Municipio Emisor",
                     "maxLength": 5
@@ -751,7 +771,8 @@
                         "Clave_Inf": [
                             "EEntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Emisor",
                     "maxLength": 2
@@ -763,7 +784,8 @@
                         "Clave_Inf": [
                             "EPais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Emisor",
                     "maxLength": 2
@@ -775,7 +797,8 @@
                         "Clave_Inf": [
                             "ECP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Código Postal Emisor",
                     "maxLength": 5
@@ -789,7 +812,8 @@
                         ],
                         "Clave negocio": [
                             "206000"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Emisor",
                     "maxLength": 13
@@ -803,7 +827,8 @@
                         ],
                         "Clave negocio": [
                             "207000"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Curp Representante Legal Emisor",
                     "maxLength": 18
@@ -817,7 +842,8 @@
                         ],
                         "Clave negocio": [
                             "206001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Apellido Paterno Representante Legal Emisor",
                     "maxLength": 200
@@ -831,7 +857,8 @@
                         ],
                         "Clave negocio": [
                             "206002"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Apellido Materno Representante Legal Emisor",
                     "maxLength": 200
@@ -845,7 +872,8 @@
                         ],
                         "Clave negocio": [
                             "206003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Representante Legal Emisor",
                     "maxLength": 254
@@ -859,7 +887,8 @@
                         ],
                         "Clave negocio": [
                             "206005"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contribuyentes Emisor",
                     "maxLength": 13
@@ -873,7 +902,8 @@
                         ],
                         "Clave negocio": [
                             "206006"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Curp Emisor",
                     "maxLength": 18
@@ -887,7 +917,8 @@
                         ],
                         "Clave negocio": [
                             "270018"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Apellido Paterno Emisor",
                     "maxLength": 200
@@ -901,7 +932,8 @@
                         ],
                         "Clave negocio": [
                             "270019"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Apellido Materno Emisor",
                     "maxLength": 200
@@ -915,7 +947,8 @@
                         ],
                         "Clave negocio": [
                             "270017"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Emisor",
                     "maxLength": 254
@@ -929,7 +962,8 @@
                         ],
                         "Clave negocio": [
                             "206011"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Denominación O Razón Social Emisor",
                     "maxLength": 254
@@ -941,7 +975,8 @@
                         "Clave_Inf": [
                             "ECorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electrónico Emisor",
                     "maxLength": 50
@@ -953,7 +988,8 @@
                         "Clave_Inf": [
                             "ENumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Emisor",
                     "maxLength": 50
@@ -965,7 +1001,8 @@
                         "Clave_Inf": [
                             "RRFCOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Organización Del Receptor",
                     "maxLength": 13
@@ -977,7 +1014,8 @@
                         "Clave_Inf": [
                             "RDenORazSocOrg"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social De La Organización Del Receptor",
                     "maxLength": 254
@@ -989,7 +1027,8 @@
                         "Clave_Inf": [
                             "RCalle"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Calle Receptor Documento Digital",
                     "maxLength": 200
@@ -1001,7 +1040,8 @@
                         "Clave_Inf": [
                             "RNumExt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Exterior Receptor",
                     "maxLength": 55
@@ -1013,7 +1053,8 @@
                         "Clave_Inf": [
                             "RNumInt"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Número Interior Receptor",
                     "maxLength": 30
@@ -1025,7 +1066,8 @@
                         "Clave_Inf": [
                             "RColonia"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Colonia Receptor",
                     "maxLength": 50
@@ -1037,7 +1079,8 @@
                         "Clave_Inf": [
                             "RLocalidad"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Localidad Receptor",
                     "maxLength": 50
@@ -1049,7 +1092,8 @@
                         "Clave_Inf": [
                             "RRef"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Referencia Domicilio Receptor",
                     "maxLength": 1000
@@ -1061,7 +1105,8 @@
                         "Clave_Inf": [
                             "RMunDel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Delegación O Municipio Receptor",
                     "maxLength": 5
@@ -1073,7 +1118,8 @@
                         "Clave_Inf": [
                             "REntidadF"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Entidad Federativa Receptor",
                     "maxLength": 2
@@ -1085,7 +1131,8 @@
                         "Clave_Inf": [
                             "RPais"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Pais Receptor",
                     "maxLength": 2
@@ -1097,7 +1144,8 @@
                         "Clave_Inf": [
                             "RCP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Código Postal Receptor",
                     "maxLength": 5
@@ -1109,7 +1157,8 @@
                         "Clave_Inf": [
                             "RRFCRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Representante Legal Receptor",
                     "maxLength": 13
@@ -1121,7 +1170,8 @@
                         "Clave_Inf": [
                             "RCURPRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Representante Legal Receptor",
                     "maxLength": 18
@@ -1133,7 +1183,8 @@
                         "Clave_Inf": [
                             "RApellPatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Representante Legal Receptor",
                     "maxLength": 200
@@ -1145,7 +1196,8 @@
                         "Clave_Inf": [
                             "RApellMatRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Representante Legal Receptor",
                     "maxLength": 200
@@ -1157,7 +1209,8 @@
                         "Clave_Inf": [
                             "RNombreRep"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Representante Legal Receptor",
                     "maxLength": 254
@@ -1169,7 +1222,8 @@
                         "Clave_Inf": [
                             "RRFC"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Registro Federal De Contribuyentes Receptor",
                     "maxLength": 13
@@ -1181,7 +1235,8 @@
                         "Clave_Inf": [
                             "RCURP"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Curp Receptor",
                     "maxLength": 18
@@ -1193,7 +1248,8 @@
                         "Clave_Inf": [
                             "RApellPat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Paterno Receptor",
                     "maxLength": 200
@@ -1205,7 +1261,8 @@
                         "Clave_Inf": [
                             "RApellMat"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Apellido Materno Receptor",
                     "maxLength": 200
@@ -1217,7 +1274,8 @@
                         "Clave_Inf": [
                             "RNombre"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Nombre Receptor",
                     "maxLength": 254
@@ -1229,7 +1287,8 @@
                         "Clave_Inf": [
                             "RDenORazSoc"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Denominación O Razón Social Receptor",
                     "maxLength": 254
@@ -1241,7 +1300,8 @@
                         "Clave_Inf": [
                             "RCorreoE"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Correo Electrónico Receptor",
                     "maxLength": 50
@@ -1253,7 +1313,8 @@
                         "Clave_Inf": [
                             "RNumTel"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "SIN CLAVE INFORMATIVA"
                     },
                     "description": "Telefonos Receptor",
                     "maxLength": 50
@@ -1265,7 +1326,8 @@
                         "Clave_Inf": [
                             "TipoDoctoDigital"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Documento Digital",
                     "maxLength": 4,
@@ -1286,7 +1348,8 @@
                         "Clave_Inf": [
                             "Cert"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Certificado De Sello Digital",
                     "maxLength": 4000
@@ -1300,7 +1363,8 @@
                         ],
                         "Clave negocio": [
                             "30003"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Serie Del Certificado Digital",
                     "maxLength": 20
@@ -1312,7 +1376,8 @@
                         "Clave_Inf": [
                             "Firma"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Firma Digital Del Emisor O Contribuyente",
                     "maxLength": 4000
@@ -1326,7 +1391,8 @@
                         ],
                         "Clave negocio": [
                             "40006"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Versión Sello Digital",
                     "maxLength": 10
@@ -1340,7 +1406,8 @@
                         ],
                         "Clave negocio": [
                             "206005"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Registro Federal De Contibuyentes Informante",
                     "maxLength": 13
@@ -1354,7 +1421,8 @@
                         ],
                         "Clave negocio": [
                             "206011"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre Denominación O Razon Social Sello Digital",
                     "maxLength": 254
@@ -1368,7 +1436,8 @@
                         ],
                         "Clave negocio": [
                             "206010"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Ejercicio Documento Digital",
                     "maximum": 9999
@@ -1386,7 +1455,8 @@
                             "214015",
                             "214020",
                             "214025"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Periodo Documento Digital",
                     "maxLength": 3,
@@ -1449,7 +1519,8 @@
                         ],
                         "Clave negocio": [
                             "40002"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Presentación",
                     "format": "date-time"
@@ -1463,7 +1534,8 @@
                         ],
                         "Clave negocio": [
                             "40005"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Medio Presentación",
                     "maxLength": 2,
@@ -1482,7 +1554,8 @@
                         "Clave_Inf": [
                             "FechaHorSelloD"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Fecha Hora Sello Digital",
                     "format": "date-time"
@@ -1494,7 +1567,8 @@
                         "Clave_Inf": [
                             "Estatus"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Estatus Documento Digital",
                     "maxLength": 3,
@@ -1513,7 +1587,8 @@
                         "Clave_Inf": [
                             "NoCertificado"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Número De Certificado",
                     "maxLength": 4000
@@ -1527,7 +1602,8 @@
                         ],
                         "Clave negocio": [
                             "30001"
-                        ]
+                        ],
+                        "Origen": "JSON"
                     },
                     "description": "Sello Digital",
                     "maxLength": 4000
@@ -1539,7 +1615,8 @@
                         "Clave_Inf": [
                             "NombreArchivo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Nombre De Archivo",
                     "maxLength": 250
@@ -1551,7 +1628,8 @@
                         "Clave_Inf": [
                             "C_IDC_ICDOENN1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Identificacion Del Contribuyente",
                     "pattern": "^(-?)\\d{1,31}(\\.0{0,16})?$"
@@ -1563,7 +1641,8 @@
                         "Clave_Inf": [
                             "C_IDC_CTPLIEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Tipo De Persona",
                     "maxLength": 4
@@ -1575,7 +1654,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSCLIOA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Situacion Del Contribuyente",
                     "maxLength": 3
@@ -1587,7 +1667,8 @@
                         "Clave_Inf": [
                             "D_IDC_SEXO0001"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Sexo",
                     "maxLength": 1
@@ -1599,7 +1680,8 @@
                         "Clave_Inf": [
                             "C_IDC_CARRLDE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Regional De Recaudacion",
                     "maxLength": 5
@@ -1611,7 +1693,8 @@
                         "Clave_Inf": [
                             "C_IDC_CALRLDO1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Administracion Local De Recaudacion",
                     "maxLength": 10
@@ -1623,7 +1706,8 @@
                         "Clave_Inf": [
                             "C_IDC_CEFLNEA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Entidad Federativa",
                     "maxLength": 6
@@ -1635,7 +1719,8 @@
                         "Clave_Inf": [
                             "C_IDC_CAELCCA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Actividad Economica",
                     "maxLength": 6
@@ -1647,7 +1732,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSLCAIV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Scian",
                     "maxLength": 6
@@ -1659,7 +1745,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSELECA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sector Economico",
                     "maxLength": 4
@@ -1671,7 +1758,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSSELUE1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Sub Sector Economico",
                     "maxLength": 4
@@ -1683,7 +1771,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRELACA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De La Rama Economica",
                     "maxLength": 4
@@ -1695,7 +1784,8 @@
                         "Clave_Inf": [
                             "C_IDC_CSRELUA1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave De Sub Rama Economica",
                     "maxLength": 4
@@ -1707,7 +1797,8 @@
                         "Clave_Inf": [
                             "C_IDC_CRLEAGV1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Clave Del Regimen",
                     "maxLength": 18
@@ -1719,7 +1810,8 @@
                         "Clave_Inf": [
                             "D_DEC_ARACFMT1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "RFC AMPLIADO"
                     },
                     "description": "Actualizacion Del Rfc Ampliado",
                     "maxLength": 1
@@ -1793,7 +1885,8 @@
                         "Clave_Inf": [
                             "TipoAnexo1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Anexo",
                     "maxLength": 2,
@@ -1808,7 +1901,8 @@
                         "Clave_Inf": [
                             "StgVarConsecutivo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Consecutivo Clave Operación Financiera",
                     "maximum": 99999
@@ -1859,7 +1953,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214027"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -1876,7 +1971,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214026"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -1890,7 +1986,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214028"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -1908,7 +2005,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214029"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -1926,7 +2024,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214030"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -1940,7 +2039,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214031"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Utilidad O Pérdida Fiscal Bruta",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -1954,7 +2054,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214032"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -1972,7 +2073,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214033"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -2026,7 +2128,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214035"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -2043,7 +2146,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214034"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -2057,7 +2161,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214036"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -2075,7 +2180,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214037"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -2093,7 +2199,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214038"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -2107,7 +2214,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214039"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Utilidad O Pérdida Fiscal Bruta",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2121,7 +2229,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214040"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -2139,7 +2248,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214041"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -2193,7 +2303,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214043"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -2210,7 +2321,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214042"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -2224,7 +2336,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214044"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -2242,7 +2355,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214045"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -2260,7 +2374,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214046"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -2274,7 +2389,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214047"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Utilidad O Pérdida Fiscal Bruta",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2288,7 +2404,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214048"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -2306,7 +2423,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214049"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -2360,7 +2478,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214051"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -2377,7 +2496,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214050"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -2391,7 +2511,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214052"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -2409,7 +2530,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214053"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -2427,7 +2549,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214054"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -2441,7 +2564,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214055"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Utilidad O Pérdida Fiscal Bruta",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2455,7 +2579,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214056"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -2473,7 +2598,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214057"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -2527,7 +2653,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214059"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -2544,7 +2671,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214058"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -2558,7 +2686,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214060"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -2576,7 +2705,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214061"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -2594,7 +2724,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214062"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -2608,7 +2739,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214063"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Utilidad O Pérdida Fiscal Bruta",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2622,7 +2754,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214064"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -2640,7 +2773,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214065"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -2694,7 +2828,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214067"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -2711,7 +2846,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214066"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -2725,7 +2861,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214068"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -2743,7 +2880,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214069"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -2761,7 +2899,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214070"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -2775,7 +2914,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214071"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Utilidad O Pérdida Fiscal Bruta",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2789,7 +2929,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214072"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -2807,7 +2948,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214073"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -2861,7 +3003,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214075"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -2878,7 +3021,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214074"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -2892,7 +3036,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214076"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -2910,7 +3055,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214077"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -2928,7 +3074,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214078"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -2942,7 +3089,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214079"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Utilidad O Pérdida Fiscal Bruta",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -2956,7 +3104,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214080"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -2974,7 +3123,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214081"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -3022,7 +3172,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214083"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -3039,7 +3190,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214082"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -3053,7 +3205,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214084"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -3071,7 +3224,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214085"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -3089,7 +3243,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214086"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -3103,7 +3258,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214087"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -3151,7 +3307,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214089"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -3168,7 +3325,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214088"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99999
@@ -3182,7 +3340,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214090"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -3200,7 +3359,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214091"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -3218,7 +3378,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214092"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -3232,7 +3393,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214093"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentario",
                                 "maxLength": 1000
@@ -3278,7 +3440,8 @@
                         "Clave_Inf": [
                             "TipoAnexo2"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Anexo",
                     "maxLength": 2,
@@ -3293,7 +3456,8 @@
                         "Clave_Inf": [
                             "StgVarConsecutivo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Consecutivo Operación Partes Relacionadas",
                     "maximum": 99
@@ -3359,7 +3523,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214095"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -3376,7 +3541,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214094"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -3390,7 +3556,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214096"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -3408,7 +3575,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214097"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -3422,7 +3590,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214098"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -3436,7 +3605,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214099"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Ingreso Modificada",
                                 "maxLength": 4,
@@ -3486,7 +3656,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214100"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Ingreso Modificado",
                                 "maxLength": 4000
@@ -3500,7 +3671,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214101"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Costo Y Gasto Que Se Modificó",
                                 "maxLength": 5,
@@ -3564,7 +3736,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214102"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Costo Y Gasto Modificado",
                                 "maxLength": 4000
@@ -3578,7 +3751,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214103"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precios De Transferencia Utilizado Para Determinar El Ajuste",
                                 "maxLength": 4,
@@ -3601,7 +3775,8 @@
                                     ],
                                     "Clave negocio": [
                                         ""
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precio De Transferencia",
                                 "maxLength": 300
@@ -3615,7 +3790,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214104"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Existe Procedimiento Acuerdo Mutuo",
                                 "maxLength": 2,
@@ -3633,7 +3809,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214105"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "País Procedimiento Mutuo Acuerdo",
                                 "maxLength": 3,
@@ -4010,7 +4187,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214107"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -4027,7 +4205,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214106"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -4041,7 +4220,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214108"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -4059,7 +4239,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214109"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -4073,7 +4254,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214110"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -4087,7 +4269,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214111"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Ingreso Modificada",
                                 "maxLength": 4,
@@ -4137,7 +4320,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214112"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Ingreso Modificado",
                                 "maxLength": 4000
@@ -4151,7 +4335,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214113"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Costo Y Gasto Que Se Modificó",
                                 "maxLength": 5,
@@ -4215,7 +4400,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214114"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Costo Y Gasto Modificado",
                                 "maxLength": 4000
@@ -4229,7 +4415,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214115"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precios De Transferencia Utilizado Para Determinar El Ajuste",
                                 "maxLength": 4,
@@ -4252,7 +4439,8 @@
                                     ],
                                     "Clave negocio": [
                                         ""
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precio De Transferencia",
                                 "maxLength": 300
@@ -4266,7 +4454,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214116"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Existe Procedimiento Acuerdo Mutuo",
                                 "maxLength": 2,
@@ -4284,7 +4473,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214117"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "País Procedimiento Mutuo Acuerdo",
                                 "maxLength": 3,
@@ -4661,7 +4851,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214119"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -4678,7 +4869,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214118"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -4692,7 +4884,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214120"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -4710,7 +4903,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214121"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -4724,7 +4918,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214122"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -4738,7 +4933,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214123"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Ingreso Modificada",
                                 "maxLength": 4,
@@ -4788,7 +4984,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214124"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Ingreso Modificado",
                                 "maxLength": 4000
@@ -4802,7 +4999,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214125"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Costo Y Gasto Que Se Modificó",
                                 "maxLength": 5,
@@ -4866,7 +5064,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214126"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Costo Y Gasto Modificado",
                                 "maxLength": 4000
@@ -4880,7 +5079,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214127"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precios De Transferencia Utilizado Para Determinar El Ajuste",
                                 "maxLength": 4,
@@ -4903,7 +5103,8 @@
                                     ],
                                     "Clave negocio": [
                                         ""
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precio De Transferencia",
                                 "maxLength": 300
@@ -4917,7 +5118,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214128"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Existe Procedimiento Acuerdo Mutuo",
                                 "maxLength": 2,
@@ -4935,7 +5137,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214129"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "País Procedimiento Mutuo Acuerdo",
                                 "maxLength": 3,
@@ -5312,7 +5515,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214131"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -5329,7 +5533,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214130"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -5343,7 +5548,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214132"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -5361,7 +5567,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214133"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -5375,7 +5582,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214134"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -5389,7 +5597,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214135"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Ingreso Modificada",
                                 "maxLength": 4,
@@ -5439,7 +5648,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214136"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Ingreso Modificado",
                                 "maxLength": 4000
@@ -5453,7 +5663,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214137"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación De Costo Y Gasto Que Se Modificó",
                                 "maxLength": 5,
@@ -5517,7 +5728,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214138"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Concepto Del Costo Y Gasto Modificado",
                                 "maxLength": 4000
@@ -5531,7 +5743,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214139"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precios De Transferencia Utilizado Para Determinar El Ajuste",
                                 "maxLength": 4,
@@ -5554,7 +5767,8 @@
                                     ],
                                     "Clave negocio": [
                                         ""
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Método De Precio De Transferencia",
                                 "maxLength": 300
@@ -5568,7 +5782,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214140"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Existe Procedimiento Acuerdo Mutuo",
                                 "maxLength": 2,
@@ -5586,7 +5801,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214141"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "País Procedimiento Mutuo Acuerdo",
                                 "maxLength": 3,
@@ -5939,7 +6155,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214143"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -5956,7 +6173,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214142"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -5970,7 +6188,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214144"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -5988,7 +6207,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214145"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operacion",
                                 "format": "date"
@@ -6002,7 +6222,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214146"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -6045,7 +6266,8 @@
                         "Clave_Inf": [
                             "C_IDC_ICDOENN1"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Identificacion Del Contribuyente",
                     "pattern": "^(-?)\\d{1,31}(\\.0{0,16})?$"
@@ -6057,7 +6279,8 @@
                         "Clave_Inf": [
                             "TipoAnexo4"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Anexo",
                     "maxLength": 2,
@@ -6072,7 +6295,8 @@
                         "Clave_Inf": [
                             "StgVarConsecutivo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Consecutivo Clave Reorganización Y Reestructura",
                     "maximum": 99
@@ -6117,7 +6341,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214173"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -6134,7 +6359,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214172"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -6148,7 +6374,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214174"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -6166,7 +6393,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214175"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -6184,7 +6412,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214176"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Inicio Implementación Operación",
                                 "format": "date"
@@ -6196,7 +6425,8 @@
                                     "Clave_Inf": [
                                         "A41FechConcl"
                                     ],
-                                    "Clave negocio": []
+                                    "Clave negocio": [],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Fin Implementación Operación",
                                 "format": "date"
@@ -6262,7 +6492,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214178"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -6279,7 +6510,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214177"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -6293,7 +6525,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214179"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -6311,7 +6544,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214180"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -6329,7 +6563,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214181"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Inicio Implementación Operación",
                                 "format": "date"
@@ -6341,7 +6576,8 @@
                                     "Clave_Inf": [
                                         "A42FechConcl"
                                     ],
-                                    "Clave negocio": []
+                                    "Clave negocio": [],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Fin Implementación Operación",
                                 "format": "date"
@@ -6355,7 +6591,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214182"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Centralización O Descentralización Compras",
                                 "maxLength": 2
@@ -6369,7 +6606,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214183"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Centralización O Descentralización Tesorería",
                                 "maxLength": 2
@@ -6383,7 +6621,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214184"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Centralización O Descentralización Logistica",
                                 "maxLength": 2
@@ -6397,7 +6636,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214185"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Centralización O Descentralización Cuentas Cobradas Pagadas",
                                 "maxLength": 2
@@ -6411,7 +6651,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214186"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Centralización O Descentralización Nomina",
                                 "maxLength": 2
@@ -6425,7 +6666,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214187"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Centralización O Descentralización Personal",
                                 "maxLength": 2
@@ -6482,7 +6724,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214189"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -6499,7 +6742,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214188"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 99
@@ -6513,7 +6757,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214190"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -6531,7 +6776,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214191"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -6549,7 +6795,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214192"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Inicio Implementación Operación",
                                 "format": "date"
@@ -6561,7 +6808,8 @@
                                     "Clave_Inf": [
                                         "A43FechConcl"
                                     ],
-                                    "Clave negocio": []
+                                    "Clave negocio": [],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Fin Implementación Operación",
                                 "format": "date"
@@ -6575,7 +6823,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214193"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Realizó Maquila De Bienes Extranjeros",
                                 "maxLength": 2
@@ -6589,7 +6838,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214194"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Realizó Servicios Administrativos Extranjeros",
                                 "maxLength": 2
@@ -6603,7 +6853,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214195"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Realizo Compra De Bienes Extranjeros",
                                 "maxLength": 2
@@ -6652,7 +6903,8 @@
                         "Clave_Inf": [
                             "TipoAnexo3"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Anexo",
                     "maxLength": 2,
@@ -6667,7 +6919,8 @@
                         "Clave_Inf": [
                             "StgVarConsecutivo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Consecutivo Clave Participación Capital",
                     "maximum": 9999
@@ -6703,7 +6956,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214148"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -6720,7 +6974,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214147"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 9999
@@ -6734,7 +6989,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214149"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -6773,7 +7029,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214151"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -6790,7 +7047,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214150"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 9999
@@ -6804,7 +7062,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214152"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -6855,7 +7114,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214154"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -6872,7 +7132,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214153"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 9999
@@ -6886,7 +7147,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214155"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -6904,7 +7166,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214156"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Realizada Residentes México O Extranjero",
                                 "maxLength": 6,
@@ -6922,7 +7185,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214157"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -6936,7 +7200,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214158"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -6950,7 +7215,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214159"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Resultado Fiscal",
                                 "maxLength": 6,
@@ -6996,7 +7262,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214161"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -7013,7 +7280,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214160"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 9999
@@ -7027,7 +7295,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214162"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -7041,7 +7310,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214163"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Pais Origen",
                                 "maxLength": 3,
@@ -7338,7 +7608,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214165"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -7355,7 +7626,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214164"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 9999
@@ -7369,7 +7641,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214166"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -7383,7 +7656,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214167"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Pais Residencia Fiscal",
                                 "maxLength": 3,
@@ -7680,7 +7954,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214169"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -7697,7 +7972,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214168"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 9999
@@ -7711,7 +7987,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214170"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -7725,7 +8002,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214171"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Pais Residencia Fiscal",
                                 "maxLength": 3,
@@ -8050,7 +8328,8 @@
                         "Clave_Inf": [
                             "TipoAnexo5"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Tipo Anexo",
                     "maxLength": 2,
@@ -8065,7 +8344,8 @@
                         "Clave_Inf": [
                             "StgVarConsecutivo"
                         ],
-                        "Clave negocio": []
+                        "Clave negocio": [],
+                        "Origen": "JSON"
                     },
                     "description": "Consecutivo Clave Otras Operaciones Relevantes",
                     "maximum": 999
@@ -8116,7 +8396,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214197"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -8133,7 +8414,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214196"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -8147,7 +8429,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214198"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -8165,7 +8448,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214199"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -8183,7 +8467,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214200"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -8197,7 +8482,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214201"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -8211,7 +8497,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214202"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Tipo Activo Intangible",
                                 "maxLength": 4
@@ -8225,7 +8512,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214203"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Activo Intangible",
                                 "maxLength": 4000
@@ -8279,7 +8567,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214205"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -8296,7 +8585,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214204"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -8310,7 +8600,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214206"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -8328,7 +8619,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214207"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -8346,7 +8638,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214208"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -8360,7 +8653,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214209"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -8374,7 +8668,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214210"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Tipo Derecho Conservado",
                                 "maxLength": 1000
@@ -8388,7 +8683,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214211"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentarios",
                                 "maxLength": 1000
@@ -8445,7 +8741,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214213"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -8462,7 +8759,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214212"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -8476,7 +8774,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214214"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -8494,7 +8793,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214215"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -8512,7 +8812,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214216"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -8526,7 +8827,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214217"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -8540,7 +8842,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214218"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Tipo Activo Intangible",
                                 "maxLength": 5,
@@ -8558,7 +8861,8 @@
                                     "Clave_Inf": [
                                         "A53ActFin"
                                     ],
-                                    "Clave negocio": []
+                                    "Clave negocio": [],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Activo Intangible",
                                 "maxLength": 4000
@@ -8572,7 +8876,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214219"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentarios",
                                 "maxLength": 1000
@@ -8626,7 +8931,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214221"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -8643,7 +8949,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214220"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -8657,7 +8964,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214222"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -8675,7 +8983,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214223"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -8693,7 +9002,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214224"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -8707,7 +9017,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214225"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -8721,7 +9032,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214226"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Tipo Activo Intangible",
                                 "maxLength": 5,
@@ -8739,7 +9051,8 @@
                                     "Clave_Inf": [
                                         "A54ActFin"
                                     ],
-                                    "Clave negocio": []
+                                    "Clave negocio": [],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Activo Intangible",
                                 "maxLength": 4000
@@ -8793,7 +9106,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214228"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -8810,7 +9124,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214227"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -8824,7 +9139,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214229"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -8842,7 +9158,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214230"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -8860,7 +9177,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214231"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -8874,7 +9192,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214232"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -8888,7 +9207,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214233"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Origino Enajenación Bien",
                                 "maxLength": 3,
@@ -8906,7 +9226,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214234"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Comentarios",
                                 "maxLength": 1000
@@ -8957,7 +9278,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214236"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -8974,7 +9296,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214235"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -8988,7 +9311,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214237"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -9006,7 +9330,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214238"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -9024,7 +9349,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214239"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -9038,7 +9364,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214240"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -9052,7 +9379,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214241"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Pais Operación",
                                 "maxLength": 3,
@@ -9355,7 +9683,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214243"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -9372,7 +9701,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214242"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -9386,7 +9716,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214244"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -9404,7 +9735,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214245"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -9422,7 +9754,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214246"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -9436,7 +9769,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214247"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -9484,7 +9818,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214249"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -9501,7 +9836,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214248"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -9515,7 +9851,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214250"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -9533,7 +9870,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214251"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -9551,7 +9889,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214252"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -9565,7 +9904,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214253"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -9613,7 +9953,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214255"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -9630,7 +9971,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214254"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -9644,7 +9986,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214256"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -9662,7 +10005,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214257"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -9680,7 +10024,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214258"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -9694,7 +10039,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214259"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -9742,7 +10088,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214261"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -9759,7 +10106,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214260"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -9773,7 +10121,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214262"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -9791,7 +10140,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214263"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -9809,7 +10159,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214264"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -9823,7 +10174,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214265"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -9871,7 +10223,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214267"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -9888,7 +10241,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214266"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -9902,7 +10256,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214268"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -9920,7 +10275,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214269"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -9938,7 +10294,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214270"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -9952,7 +10309,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214271"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -10000,7 +10358,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214273"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -10017,7 +10376,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214272"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -10031,7 +10391,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214274"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -10049,7 +10410,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214275"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -10067,7 +10429,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214276"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -10081,7 +10444,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214277"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
@@ -10129,7 +10493,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214279"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Clave Operación Presentada",
                                 "maxLength": 2,
@@ -10146,7 +10511,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214278"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
                                 "maximum": 999
@@ -10160,7 +10526,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214280"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Partes Relacionadas",
                                 "maxLength": 3,
@@ -10178,7 +10545,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214281"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Operación Con Residentes",
                                 "maxLength": 6,
@@ -10196,7 +10564,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214282"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Fecha Operación",
                                 "format": "date"
@@ -10210,7 +10579,8 @@
                                     ],
                                     "Clave negocio": [
                                         "214283"
-                                    ]
+                                    ],
+                                    "Origen": "JSON"
                                 },
                                 "description": "Importe Operación",
                                 "pattern": "^(-?)\\d{1,15}(\\.0{0,16})?$"
