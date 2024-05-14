@@ -3576,9 +3576,14 @@
                             ]
                         },
                         "then": {
-                            "required": [
-                                "N_DEC_TUCGEOT1"
-                            ]
+                            "oneOf": [
+                                  { "required":
+                                    ["N_DEC_TUCGEOT1"]
+                                  },
+                                  { "required":
+                                    ["N_DEC_TPCGEOE1"]
+                                  }
+                                ]
                         }
                     },
                     {
@@ -3593,43 +3598,14 @@
                             ]
                         },
                         "then": {
-                            "required": [
-                                "N_DEC_TPCGEOE1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_TUCGEPP1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_TPCGEPP1"
-                            ]
+                            "oneOf": [
+                                  { "required":
+                                    ["N_DEC_TUCGEPP1"]
+                                  },
+                                  { "required":
+                                    ["N_DEC_TPCGEPP1"]
+                                  }
+                                ]
                         }
                     },
                     {
