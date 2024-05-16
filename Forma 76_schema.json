@@ -1,4 +1,4 @@
-{
+ {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "http://sat.gob.mx/nuevosfomularios.json",
     "type": "object",
@@ -88,12 +88,6 @@
                 },
                 "D_DEC_PDEERCI1": {
                     "$ref": "#/definitions/MM_DEC_CORAPER1/definitions/D_DEC_PDEERCI1"
-                },
-                "D_DEC_FAONLTI1": {
-                    "$ref": "#/definitions/MM_DEC_CORAPER1/definitions/D_DEC_FAONLTI1"
-                },
-                "F_DEC_FPAERNC1": {
-                    "$ref": "#/definitions/MM_DEC_CORAPER1/definitions/F_DEC_FPAERNC1"
                 },
                 "N_DEC_EDFJOIE1": {
                     "$ref": "#/definitions/MM_DEC_CORAPER1/definitions/N_DEC_EDFJOIE1"
@@ -400,15 +394,7 @@
                     "description": "Tipo De Periodicidad",
                     "maxLength": 2,
                     "enum": [
-                        "M",
-                        "B",
-                        "T",
-                        "Q",
-                        "S",
-                        "L",
-                        "J",
-                        "Y",
-                        "N"
+                        "T"
                     ]
                 },
                 "D_DEC_TDIEPCO1": {
@@ -478,49 +464,6 @@
                     "description": "Periodo De La Declaración",
                     "maxLength": 3,
                     "enum": [
-                        "01",
-                        "02",
-                        "03",
-                        "04",
-                        "05",
-                        "06",
-                        "07",
-                        "08",
-                        "09",
-                        "10",
-                        "11",
-                        "12",
-                        "13",
-                        "14",
-                        "15",
-                        "16",
-                        "17",
-                        "18",
-                        "19",
-                        "20",
-                        "21",
-                        "22",
-                        "23",
-                        "24",
-                        "25",
-                        "26",
-                        "27",
-                        "28",
-                        "29",
-                        "30",
-                        "31",
-                        "32",
-                        "33",
-                        "34",
-                        "35",
-                        "36",
-                        "37",
-                        "38",
-                        "39",
-                        "40",
-                        "41",
-                        "42",
-                        "43",
                         "001",
                         "002",
                         "003",
@@ -569,44 +512,6 @@
                         "049",
                         "099"
                     ]
-                },
-                "D_DEC_FAONLTI1": {
-                    "$id": "#/properties/MM_DEC_CORAPER1/properties/D_DEC_FAONLTI1",
-                    "type": "string",
-                    "metadata": {
-                        "Clave_Inf": [
-                            "FolioAnt"
-                        ],
-                        "Clave negocio": [
-                            "214003",
-                            "214008",
-                            "214013",
-                            "214018",
-                            "214023"
-                        ],
-                        "Origen": "JSON"
-                    },
-                    "description": "Folio Anterior",
-                    "maxLength": 16
-                },
-                "F_DEC_FPAERNC1": {
-                    "$id": "#/properties/MM_DEC_CORAPER1/properties/F_DEC_FPAERNC1",
-                    "type": "string",
-                    "metadata": {
-                        "Clave_Inf": [
-                            "FechPresAnt"
-                        ],
-                        "Clave negocio": [
-                            "214004",
-                            "214009",
-                            "214014",
-                            "214019",
-                            "214024"
-                        ],
-                        "Origen": "JSON"
-                    },
-                    "description": "Fecha Presentación Anterior",
-                    "format": "date"
                 },
                 "N_DEC_EDFJOIE1": {
                     "$id": "#/properties/MM_DEC_CORAPER1/properties/N_DEC_EDFJOIE1",
@@ -1826,7 +1731,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
