@@ -1870,7 +1870,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -1887,7 +1887,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -1904,7 +1904,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -2492,23 +2492,6 @@
                         "then": {
                             "required": [
                                 "D_DEC_NDRSPEO1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_TPIRPOO1": {
-                                    "const": "2"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_TPIRPOO1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_IFPEDIR1"
                             ]
                         }
                     },

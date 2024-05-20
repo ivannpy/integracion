@@ -4502,7 +4502,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -4519,7 +4519,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -4536,7 +4536,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [

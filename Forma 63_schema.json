@@ -1673,23 +1673,6 @@
                     },
                     "then": {
                         "required": [
-                            "D_DEC_CEUMRIP1"
-                        ]
-                    }
-                },
-                {
-                    "if": {
-                        "properties": {
-                            "D_DEC_RFCEDDE1": {
-                                "const": "13"
-                            }
-                        },
-                        "required": [
-                            "D_DEC_RFCEDDE1"
-                        ]
-                    },
-                    "then": {
-                        "required": [
                             "D_DEC_APEPAME1"
                         ]
                     }
@@ -1758,40 +1741,6 @@
                     },
                     "then": {
                         "required": [
-                            "D_DEC_RFCRLEE1"
-                        ]
-                    }
-                },
-                {
-                    "if": {
-                        "properties": {
-                            "D_DEC_RFCEDDE1": {
-                                "const": "13"
-                            }
-                        },
-                        "required": [
-                            "D_DEC_RFCEDDE1"
-                        ]
-                    },
-                    "then": {
-                        "required": [
-                            "D_DEC_CRLEUEE1"
-                        ]
-                    }
-                },
-                {
-                    "if": {
-                        "properties": {
-                            "D_DEC_RFCEDDE1": {
-                                "const": "13"
-                            }
-                        },
-                        "required": [
-                            "D_DEC_RFCEDDE1"
-                        ]
-                    },
-                    "then": {
-                        "required": [
                             "D_DEC_APRLEPA1"
                         ]
                     }
@@ -1834,7 +1783,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -1851,7 +1800,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -1868,7 +1817,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
@@ -2703,15 +2652,7 @@
                         "description": "Primera Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "1"
                         ]
                     },
                     "D_DEC_PECQNCI1": {
@@ -2742,15 +2683,7 @@
                         "description": "Segunda Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "2"
                         ]
                     },
                     "D_DEC_SECQNCI1": {
@@ -2781,15 +2714,7 @@
                         "description": "Tercera Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "3"
                         ]
                     },
                     "D_DEC_TECQNCI1": {
@@ -2820,15 +2745,7 @@
                         "description": "Cuarta Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "4"
                         ]
                     },
                     "D_DEC_CECQNCI1": {
@@ -2859,15 +2776,7 @@
                         "description": "Quinta Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "5"
                         ]
                     },
                     "D_DEC_QECQNCI1": {
@@ -2898,15 +2807,7 @@
                         "description": "Sexta Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "6"
                         ]
                     },
                     "D_DEC_SECQNCI2": {
@@ -2937,15 +2838,7 @@
                         "description": "Septima Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "7"
                         ]
                     },
                     "D_DEC_SECQNCI3": {
@@ -2976,15 +2869,7 @@
                         "description": "Octava Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
+                            "8"
                         ]
                     },
                     "D_DEC_OECQNCI1": {
@@ -3008,21 +2893,13 @@
                                 "CauNoIngConCal177Lisr9"
                             ],
                             "Clave negocio": [
-                                "2130389"
+                                "213038"
                             ],
                             "Origen": "JSON"
                         },
                         "description": "Novena Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
                         "maxLength": 1,
                         "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
                             "9"
                         ]
                     },
@@ -3054,18 +2931,7 @@
                             "Origen": "JSON"
                         },
                         "description": "Decima Causas Por Las Que No Considero Los Ingresos Contables Para Efectos Del Calculo Del Isr Articulo 177 Lisr Del Ejercicio Que Se Declara De Acuerdo Al Catalogo Publicado En La Pagina De Internet Del Sat",
-                        "maxLength": 1,
-                        "enum": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9"
-                        ]
+                        "maxLength": 1
                     },
                     "D_DEC_DECQNCI1": {
                         "$id": "#/properties/DD_DEC_DIDENET1/items/properties/D_DEC_DECQNCI1",
@@ -3543,6 +3409,40 @@
                         },
                         "then": {
                             "required": [
+                                "D_DEC_NIFUDIM1"
+                            ]
+                        }
+                    },
+                    {
+                        "if": {
+                            "properties": {
+                                "D_DEC_IDA1LNE1": {
+                                    "const": "1"
+                                }
+                            },
+                            "required": [
+                                "D_DEC_IDA1LNE1"
+                            ]
+                        },
+                        "then": {
+                            "required": [
+                                "D_DEC_ISTCRPS1"
+                            ]
+                        }
+                    },
+                    {
+                        "if": {
+                            "properties": {
+                                "D_DEC_IDA1LNE1": {
+                                    "const": "1"
+                                }
+                            },
+                            "required": [
+                                "D_DEC_IDA1LNE1"
+                            ]
+                        },
+                        "then": {
+                            "required": [
                                 "D_DEC_ISSTUEF1"
                             ]
                         }
@@ -3560,68 +3460,7 @@
                         },
                         "then": {
                             "required": [
-                                "N_DEC_TICGEON1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                             "oneOf": [
-                                  { "required":
-                                    ["N_DEC_TUCGEOT1"]
-                                  },
-                                  { "required":
-                                    ["N_DEC_TPCGEOE1"]
-                                  }
-                                ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "oneOf": [
-                                  { "required":
-                                    ["N_DEC_TUCGEPP1"]
-                                  },
-                                  { "required":
-                                    ["N_DEC_TPCGEPP1"]
-                                  }
-                                ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "2"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_TIOEONB1"
+                                "D_DEC_FQSOIOU1"
                             ]
                         }
                     },
@@ -3844,268 +3683,6 @@
                     {
                         "if": {
                             "properties": {
-                                "D_DEC_NCQNCIC1": {
-                                    "const": "9"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_NCQNCIC1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_NECQNCI1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "enum": [
-                                        "1",
-                                        "2"
-                                    ]
-                                },
-                                "D_DEC_DCQNCIC1": {
-                                    "const": "10"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1",
-                                "D_DEC_DCQNCIC1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_DCQNCIC1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_DCENCEC1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_INCEPSC1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_DNCEPSC1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_CQECIA11"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_CQECIA11": {
-                                    "const": "3"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_CQECIA11"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_ECQECIA1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_TPFEADE1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_TRFEQSD1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_ISRDCA11"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_IPEATA11"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_IRETTVL1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_ISRAPTT1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_ICECAQS1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_SPFPAPP1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
                                 "D_DEC_TIINPGO1": {
                                     "enum": [
                                         "4",
@@ -4128,61 +3705,6 @@
                     {
                         "if": {
                             "properties": {
-                                "D_DEC_MCSDTEA1": {
-                                    "enum": [
-                                        "4",
-                                        "10",
-                                        "14"
-                                    ]
-                                }
-                            },
-                            "required": [
-                                "D_DEC_MCSDTEA1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_EMCSDTE1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "N_DEC_EDFJOIE1": {
-                                    "minimum": 2020
-                                }
-                            },
-                            "required": [
-                                "N_DEC_EDFJOIE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_OITIDTL1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "N_DEC_EDFJOIE1": {
-                                    "minimum": 2020
-                                }
-                            },
-                            "required": [
-                                "N_DEC_EDFJOIE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "D_DEC_IPDPROR1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
                                 "N_DEC_EDFJOIE1": {
                                     "minimum": 2020
                                 },
@@ -4198,99 +3720,6 @@
                         "then": {
                             "required": [
                                 "D_DEC_ITEECPT1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "N_DEC_EDFJOIE1": {
-                                    "minimum": 2020
-                                }
-                            },
-                            "required": [
-                                "N_DEC_EDFJOIE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_ITCESEE1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "N_DEC_EDFJOIE1": {
-                                    "minimum": 2020
-                                }
-                            },
-                            "required": [
-                                "N_DEC_EDFJOIE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_ITPDIEE1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "N_DEC_EDFJOIE1": {
-                                    "minimum": 2020
-                                }
-                            },
-                            "required": [
-                                "N_DEC_EDFJOIE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_IPPDIEE1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "N_DEC_EDFJOIE1": {
-                                    "minimum": 2020
-                                },
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "N_DEC_EDFJOIE1",
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_IPMATAD1"
-                            ]
-                        }
-                    },
-                    {
-                        "if": {
-                            "properties": {
-                                "N_DEC_EDFJOIE1": {
-                                    "minimum": 2020
-                                },
-                                "D_DEC_IDA1LNE1": {
-                                    "const": "1"
-                                }
-                            },
-                            "required": [
-                                "N_DEC_EDFJOIE1",
-                                "D_DEC_IDA1LNE1"
-                            ]
-                        },
-                        "then": {
-                            "required": [
-                                "N_DEC_IATASPI1"
                             ]
                         }
                     }
