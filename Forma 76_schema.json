@@ -33,7 +33,6 @@
             "$ref": "#/definitions/A5OtrOpRelev"
         }
     },
-    "minProperties": 2,
     "additionalProperties": false,
     "definitions": {
         "MM_DEC_CORAPER1": {
@@ -1784,7 +1783,7 @@
                     "if": {
                         "properties": {
                             "D_DEC_TDIEPCO1": {
-                                "const": "2"
+                                "const": "002"
                             }
                         },
                         "required": [
