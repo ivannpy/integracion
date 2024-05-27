@@ -35,20 +35,19 @@
                 "D_DEC_VEESRTS1",
                 "D_DEC_TDDIOIP1",
                 "D_DEC_RFCEDDE1",
-                "D_DEC_DRSCEDD1",
                 "D_DEC_VEDIESE1",
                 "N_DEC_EDFJOIE1",
                 "D_DEC_TPIEPRO1",
                 "D_DEC_PDEERCI1",
                 "D_DEC_TDIEPCO1",
                 "D_DEC_VSDEEIR1",
-                "D_DEC_NDRSSDO1",
                 "D_DEC_RFCESDE1",
                 "N_DEC_EDDSDJO1",
                 "D_DEC_PDDSDEO1",
                 "F_DEC_FHPEORC1",
                 "D_DEC_MPERDEI1",
-                "D_DEC_NAORMCB1"
+                "D_DEC_NAORMCB1",
+                "F_DEC_FHSDEOE1"
             ],
             "properties": {
                 "C_DEC_NOUPMEE1": {

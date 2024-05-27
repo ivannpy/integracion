@@ -46,7 +46,8 @@
                 "D_DEC_PDDSDEO1",
                 "F_DEC_FHPEORC1",
                 "D_DEC_MPERDEI1",
-                "D_DEC_NAORMCB1"
+                "D_DEC_NAORMCB1",
+                "F_DEC_FHSDEOE1"
             ],
             "properties": {
                 "C_DEC_NOUPMEE1": {
