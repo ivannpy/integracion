@@ -33,9 +33,6 @@
             "required": [
                 "C_DEC_NOUPMEE1",
                 "D_DEC_TDDIOIP1",
-                "D_DEC_CSDEEIR1",
-                "D_DEC_NSCDUEE1",
-                "D_DEC_FDECDDI1",
                 "D_DEC_VEESRTS1",
                 "D_DEC_RFCEDDE1",
                 "D_DEC_VEBQSEE1",
@@ -49,11 +46,7 @@
                 "D_DEC_PDDSDEO1",
                 "F_DEC_FHPEORC1",
                 "D_DEC_MPERDEI1",
-                "D_DEC_NAORMCB1",
-                "F_DEC_FHSDEOE1",
-                "D_DEC_FDECSDI1",
-                "D_DEC_SDEILGL1",
-                "D_DEC_NCUEMRE1"
+                "D_DEC_NAORMCB1"
             ],
             "properties": {
                 "C_DEC_NOUPMEE1": {
@@ -1659,6 +1652,7 @@
                     "maxLength": 4000
                 }
             },
+            "additionalProperties": false,
             "allOf": [
                 {
                     "if": {
@@ -1837,7 +1831,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DIDENET1/items",
                 "type": "object",
@@ -2048,6 +2042,7 @@
                         "$ref": "#/definitions/DD_DEC_DIDENET1/items/definitions/N_DEC_IATASPI1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_CRDOEEN1": {
                         "$id": "#/properties/DD_DEC_DIDENET1/items/properties/C_DEC_CRDOEEN1",
@@ -3731,7 +3726,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DEIENNT1/items",
                 "type": "object",
@@ -3759,6 +3754,7 @@
                         "$ref": "#/definitions/DD_DEC_DEIENNT1/items/definitions/D_DEC_EFJECTEF1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_CRDOEEN1": {
                         "$id": "#/properties/DD_DEC_DEIENNT1/items/properties/C_DEC_CRDOEEN1",

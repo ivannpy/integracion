@@ -48,16 +48,9 @@
             "required": [
                 "C_DEC_NOUPMEE1",
                 "D_DEC_TDDIOIP1",
-                "D_DEC_CSDEEIR1",
-                "D_DEC_NSCDUEE1",
-                "D_DEC_FDECDDI1",
                 "D_DEC_VEESRTS1",
                 "D_DEC_RFCEDDE1",
                 "D_DEC_DRSEEAO1",
-                "D_DEC_RFCRLEE1",
-                "D_DEC_APRLEPA1",
-                "D_DEC_AMRLEPA1",
-                "D_DEC_NRLEOEE1",
                 "D_DEC_VEESRTS2",
                 "N_DEC_EDFJOIE1",
                 "D_DEC_TDIEPCO1",
@@ -68,11 +61,7 @@
                 "D_DEC_PDDSDEO1",
                 "F_DEC_FHPEORC1",
                 "D_DEC_MPERDEI1",
-                "D_DEC_NAORMCB1",
-                "F_DEC_FHSDEOE1",
-                "D_DEC_FDECSDI1",
-                "D_DEC_SDEILGL1",
-                "D_DEC_NCUEMRE1"
+                "D_DEC_NAORMCB1"
             ],
             "properties": {
                 "C_DEC_NOUPMEE1": {
@@ -4497,6 +4486,7 @@
                     "maxLength": 1
                 }
             },
+            "additionalProperties": false,
             "allOf": [
                 {
                     "if": {
@@ -4675,7 +4665,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DCFIQSD1/items",
                 "type": "object",
@@ -4697,6 +4687,7 @@
                         "$ref": "#/definitions/DD_DEC_DCFIQSD1/items/definitions/I_DEC_MCFORIN1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_NCIUQLC1": {
                         "$id": "#/properties/DD_DEC_DCFIQSD1/items/properties/C_DEC_NCIUQLC1",
@@ -4781,7 +4772,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DDIDOME1/items",
                 "type": "object",
@@ -4800,6 +4791,7 @@
                         "$ref": "#/definitions/DD_DEC_DDIDOME1/items/definitions/D_DEC_NPQSEOO1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_NCOUOPM1": {
                         "$id": "#/properties/DD_DEC_DDIDOME1/items/properties/C_DEC_NCOUOPM1",
@@ -4922,7 +4914,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DDREQCO1/items",
                 "type": "object",
@@ -4950,6 +4942,7 @@
                         "$ref": "#/definitions/DD_DEC_DDREQCO1/items/definitions/D_DEC_SQPEUEC1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_NCCRQSA1": {
                         "$id": "#/properties/DD_DEC_DDREQCO1/items/properties/C_DEC_NCCRQSA1",
@@ -5379,7 +5372,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DDGSAA21/items",
                 "type": "object",
@@ -5524,6 +5517,7 @@
                         "$ref": "#/definitions/DD_DEC_DDGSAA21/items/definitions/N_DEC_VTEPRAA1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_NCCRUOA1": {
                         "$id": "#/properties/DD_DEC_DDGSAA21/items/properties/C_DEC_NCCRUOA1",
@@ -6497,7 +6491,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DMPIACE1/items",
                 "type": "object",
@@ -6516,6 +6510,7 @@
                         "$ref": "#/definitions/DD_DEC_DMPIACE1/items/definitions/F_DEC_FIOEPEN1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_NCRQCCU1": {
                         "$id": "#/properties/DD_DEC_DMPIACE1/items/properties/C_DEC_NCRQCCU1",
@@ -6593,7 +6588,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DMOCEEO1/items",
                 "type": "object",
@@ -6666,6 +6661,7 @@
                         "$ref": "#/definitions/DD_DEC_DMOCEEO1/items/definitions/N_DEC_VEDCPAA1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_NCQLCUO1": {
                         "$id": "#/properties/DD_DEC_DMOCEEO1/items/properties/C_DEC_NCQLCUO1",
@@ -7019,7 +7015,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_DSCIVAE1/items",
                 "type": "object",
@@ -7053,6 +7049,7 @@
                         "$ref": "#/definitions/DD_DEC_DSCIVAE1/items/definitions/N_DEC_IDEAVEJ1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_NCQLCAU1": {
                         "$id": "#/properties/DD_DEC_DSCIVAE1/items/properties/C_DEC_NCQLCAU1",

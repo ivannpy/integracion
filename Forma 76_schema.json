@@ -47,17 +47,9 @@
                 "D_DEC_PDEERCI1",
                 "N_DEC_EDFJOIE1",
                 "D_DEC_VEESRTS1",
-                "D_DEC_RFCRLEE1",
-                "D_DEC_CRLEUEE1",
-                "D_DEC_APRLEPA1",
-                "D_DEC_AMRLEPA1",
-                "D_DEC_NRLEOEE1",
                 "D_DEC_RFCEEEO1",
                 "D_DEC_DRSEEAO1",
                 "D_DEC_TDDIOIP1",
-                "D_DEC_CSDEEIR1",
-                "D_DEC_NSCDUEE1",
-                "D_DEC_FDECIIM1",
                 "D_DEC_VSDEEIR1",
                 "D_DEC_RFCIEEO1",
                 "D_DEC_NDRSSDO1",
@@ -65,9 +57,6 @@
                 "D_DEC_PDDEOIR1",
                 "F_DEC_FHPEORC1",
                 "D_DEC_MPERDEI1",
-                "F_DEC_FHSDEOE1",
-                "D_DEC_NCUEMRE1",
-                "D_DEC_SDEILGL1",
                 "D_DEC_NAORMCB1"
             ],
             "properties": {
@@ -1778,6 +1767,7 @@
                     "maxLength": 1
                 }
             },
+            "additionalProperties": false,
             "allOf": [
                 {
                     "if": {
@@ -3363,7 +3353,8 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         },
         "A2OpParRel": {
             "$id": "#properties/A2OpParRel",
@@ -6192,7 +6183,8 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         },
         "A4ReorYReest": {
             "$id": "#properties/A4ReorYReest",
@@ -6823,7 +6815,8 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         },
         "A3ParCapYResFis": {
             "$id": "#properties/A3ParCapYResFis",
@@ -8227,7 +8220,8 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         },
         "A5OtrOpRelev": {
             "$id": "#properties/A5OtrOpRelev",
@@ -10549,7 +10543,8 @@
                         }
                     }
                 }
-            }
+            },
+            "additionalProperties": false
         }
     }
 }

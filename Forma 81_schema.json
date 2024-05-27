@@ -34,14 +34,8 @@
                 "C_DEC_NOUPMEE1",
                 "D_DEC_VEESRTS1",
                 "D_DEC_TDDIOIP1",
-                "D_DEC_CSDEEIR1",
-                "D_DEC_NSCDUEE1",
-                "D_DEC_FDECIIM1",
                 "D_DEC_RFCEDDE1",
                 "D_DEC_DRSCEDD1",
-                "D_DEC_RFCRLEE1",
-                "D_DEC_CURPRLE1",
-                "D_DEC_NRLEOEE1",
                 "D_DEC_VEDIESE1",
                 "N_DEC_EDFJOIE1",
                 "D_DEC_TPIEPRO1",
@@ -54,11 +48,7 @@
                 "D_DEC_PDDSDEO1",
                 "F_DEC_FHPEORC1",
                 "D_DEC_MPERDEI1",
-                "D_DEC_NAORMCB1",
-                "F_DEC_FHSDEOE1",
-                "D_DEC_FDECSDI1",
-                "D_DEC_SDEILGL1",
-                "D_DEC_NCSRUEA1"
+                "D_DEC_NAORMCB1"
             ],
             "properties": {
                 "C_DEC_NOUPMEE1": {
@@ -1865,6 +1855,7 @@
                     ]
                 }
             },
+            "additionalProperties": false,
             "allOf": [
                 {
                     "if": {
@@ -1924,7 +1915,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_ORCICPP1/items",
                 "type": "object",
@@ -1973,6 +1964,7 @@
                         "$ref": "#/definitions/DD_DEC_ORCICPP1/items/definitions/D_DEC_NCUOMNE1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_CORCICP1": {
                         "$id": "#/properties/DD_DEC_ORCICPP1/items/properties/C_DEC_CORCICP1",
@@ -2622,7 +2614,7 @@
             "type": "array",
             "metadata": {},
             "minItems": 0,
-            "additionalItems": true,
+            "additionalItems": false,
             "items": {
                 "$id": "#properties/DD_DEC_ORCICPP2/items",
                 "type": "object",
@@ -2650,6 +2642,7 @@
                         "$ref": "#/definitions/DD_DEC_ORCICPP2/items/definitions/D_DEC_NCUOMNE1"
                     }
                 },
+                "additionalProperties": false,
                 "definitions": {
                     "C_DEC_CORCICP1": {
                         "$id": "#/properties/DD_DEC_ORCICPP2/items/properties/C_DEC_CORCICP1",
