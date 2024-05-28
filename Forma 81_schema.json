@@ -1859,12 +1859,12 @@
                 {
                     "if": {
                         "properties": {
-                            "D_DEC_TDIEPCO1": {
-                                "const": "002"
+                            "D_DEC_TCIOPMO1": {
+                                "const": "003"
                             }
                         },
                         "required": [
-                            "D_DEC_TDIEPCO1"
+                            "D_DEC_TCIOPMO1"
                         ]
                     },
                     "then": {
@@ -1876,12 +1876,12 @@
                 {
                     "if": {
                         "properties": {
-                            "D_DEC_TDIEPCO1": {
-                                "const": "002"
+                            "D_DEC_TCIOPMO1": {
+                                "const": "003"
                             }
                         },
                         "required": [
-                            "D_DEC_TDIEPCO1"
+                            "D_DEC_TCIOPMO1"
                         ]
                     },
                     "then": {
