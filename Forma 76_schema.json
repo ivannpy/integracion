@@ -3496,7 +3496,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_ORPEESR1": {
                                 "$id": "#/properties/A2OpParRel/properties/A21AjuEjActModM20/items/properties/D_DEC_ORPEESR1",
@@ -4160,7 +4160,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_ORPEESR1": {
                                 "$id": "#/properties/A2OpParRel/properties/A22AjuEjActModM60MP/items/properties/D_DEC_ORPEESR1",
@@ -4824,7 +4824,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_ORPEESR1": {
                                 "$id": "#/properties/A2OpParRel/properties/A23AjuModM20/items/properties/D_DEC_ORPEESR1",
@@ -5488,7 +5488,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_ORPEESR1": {
                                 "$id": "#/properties/A2OpParRel/properties/A24AjuModM60MP/items/properties/D_DEC_ORPEESR1",
@@ -6128,7 +6128,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_ORPEESR1": {
                                 "$id": "#/properties/A2OpParRel/properties/A25CosYGasValResUtYOPag/items/properties/D_DEC_ORPEESR1",
@@ -6315,7 +6315,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A4ReorYReest/properties/A41ReesOReorEnAcc/items/properties/D_DEC_PRAERLT1",
@@ -6466,7 +6466,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A4ReorYReest/properties/A42CenODescFunXGruEco/items/properties/D_DEC_PRAERLT1",
@@ -6698,7 +6698,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 99
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A4ReorYReest/properties/A43CamModNeg/items/properties/D_DEC_PRAERLT1",
@@ -6931,7 +6931,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 9999
+                                "maximum": 99999
                             },
                             "F_DEC_FOEPCEH1": {
                                 "$id": "#/properties/A3ParCapYResFis/properties/A31CamSocManDir/items/properties/F_DEC_FOEPCEH1",
@@ -7004,7 +7004,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 9999
+                                "maximum": 99999
                             },
                             "F_DEC_FOEPCEH1": {
                                 "$id": "#/properties/A3ParCapYResFis/properties/A32CamSocManInd/items/properties/F_DEC_FOEPCEH1",
@@ -7089,7 +7089,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 9999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A3ParCapYResFis/properties/A33EnAcc/items/properties/D_DEC_PRAERLT1",
@@ -7237,7 +7237,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 9999
+                                "maximum": 99999
                             },
                             "F_DEC_FOEPCEH1": {
                                 "$id": "#/properties/A3ParCapYResFis/properties/A34CamResFisExtAMex/items/properties/F_DEC_FOEPCEH1",
@@ -7583,7 +7583,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 9999
+                                "maximum": 99999
                             },
                             "F_DEC_FOEPCEH1": {
                                 "$id": "#/properties/A3ParCapYResFis/properties/A35ObtResFisMexYExt/items/properties/F_DEC_FOEPCEH1",
@@ -7929,7 +7929,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 9999
+                                "maximum": 99999
                             },
                             "F_DEC_FOEPCEH1": {
                                 "$id": "#/properties/A3ParCapYResFis/properties/A36ObtResFisExtYMex/items/properties/F_DEC_FOEPCEH1",
@@ -8372,7 +8372,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A51EnBienIntang/items/properties/D_DEC_PRAERLT1",
@@ -8543,7 +8543,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A52EnBienTipDer/items/properties/D_DEC_PRAERLT1",
@@ -8717,7 +8717,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A53EnActFin/items/properties/D_DEC_PRAERLT1",
@@ -8907,7 +8907,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A54ApActFinFid/items/properties/D_DEC_PRAERLT1",
@@ -9082,7 +9082,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A55EnBienFusOEsc/items/properties/D_DEC_PRAERLT1",
@@ -9254,7 +9254,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A56OpPaisBenEvDobISR/items/properties/D_DEC_PRAERLT1",
@@ -9659,7 +9659,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A57OpFinIntDesp1Anio/items/properties/D_DEC_PRAERLT1",
@@ -9794,7 +9794,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A58PagIntOpFinM1Anio/items/properties/D_DEC_PRAERLT1",
@@ -9929,7 +9929,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A59RegIntDevConOpFinM1Anio/items/properties/D_DEC_PRAERLT1",
@@ -10064,7 +10064,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A510DivPerFisEjAntEsc/items/properties/D_DEC_PRAERLT1",
@@ -10199,7 +10199,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A511TransPerFisEjAntDivEsc/items/properties/D_DEC_PRAERLT1",
@@ -10334,7 +10334,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A512DisPerFisDFusArt58LISR/items/properties/D_DEC_PRAERLT1",
@@ -10469,7 +10469,7 @@
                                     "Origen": "JSON"
                                 },
                                 "description": "Consecutivo Original",
-                                "maximum": 999
+                                "maximum": 99999
                             },
                             "D_DEC_PRAERLT1": {
                                 "$id": "#/properties/A5OtrOpRelev/properties/A513ReemCapPagDivRecPresR/items/properties/D_DEC_PRAERLT1",

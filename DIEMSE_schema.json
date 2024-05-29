@@ -4703,7 +4703,7 @@
                             "Origen": "JSON"
                         },
                         "description": "Numero De Consecutivo O Identificador Unico Que Le Corresponde Al Registro Del Credito Fiscal Por El Isr Que Dejaria De Pagar Por La Deduccion Inmediata",
-                        "maximum": 9
+                        "maximum": 99999
                     },
                     "D_DEC_CIBNAFO1": {
                         "$id": "#/properties/DD_DEC_DCFIQSD1/items/properties/D_DEC_CIBNAFO1",
